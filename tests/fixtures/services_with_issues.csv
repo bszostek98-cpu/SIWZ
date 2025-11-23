@@ -1,0 +1,9 @@
+code,name,category,subcategory,synonyms
+KAR001,Konsultacja kardiologiczna,Kardiologia,Konsultacje,wizyta
+KAR002,USG serca,Kardiologia,Badania obrazowe,echo serca
+  KAR003  ,  EKG spoczynkowe  ,  Kardiologia  ,,
+KAR001,Duplicate code entry,Kardiologia,Konsultacje,
+,Missing code,Kardiologia,,
+KAR005,,Kardiologia,,
+KAR006,Valid entry,Kardiologia,Badania,test
+

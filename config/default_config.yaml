@@ -1,0 +1,20 @@
+# Default configuration for SIWZ Mapper
+
+llm:
+  provider: openai
+  model: gpt-4o
+  temperature: 0.1
+  max_tokens: 4000
+  timeout: 60
+  # api_key: set via SIWZ_LLM__API_KEY environment variable
+
+pipeline:
+  top_k_candidates: 5
+  min_confidence_threshold: 0.5
+  extract_bboxes: true
+  parallel_llm_calls: false
+
+# Paths
+services_dict_path: "data/services.json"
+output_dir: "output"
+

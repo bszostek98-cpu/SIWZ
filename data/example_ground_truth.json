@@ -1,0 +1,25 @@
+{
+  "document_name": "siwz_example.pdf",
+  "variants": [
+    {
+      "variant_id": "variant_1",
+      "variant_name": "Wariant podstawowy",
+      "is_prophylaxis": false,
+      "core_services": ["SVC001", "SVC002"],
+      "prophylaxis_services": []
+    },
+    {
+      "variant_id": "variant_2",
+      "variant_name": "Wariant rozszerzony",
+      "is_prophylaxis": false,
+      "core_services": ["SVC001", "SVC002", "SVC003"],
+      "prophylaxis_services": []
+    }
+  ],
+  "metadata": {
+    "annotator": "Expert",
+    "annotation_date": "2025-11-22",
+    "notes": "Przykładowa adnotacja ground truth"
+  }
+}
+

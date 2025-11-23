@@ -1,0 +1,123 @@
+{
+  "doc_id": "siwz_2025_kardiologia_przyklad",
+  "variants": [
+    {
+      "variant_id": "variant_1",
+      "core_codes": [
+        "KAR001",
+        "KAR002",
+        "KAR003"
+      ],
+      "prophylaxis_codes": [],
+      "mappings": [
+        {
+          "entity_id": "ent_001",
+          "mapping_type": "1-1",
+          "primary_codes": [
+            "KAR001"
+          ],
+          "alt_candidates": [
+            {
+              "code": "KAR005",
+              "name": "Konsultacja kardiologiczna kontrolna",
+              "score": 0.72,
+              "reason": "Podobna nazwa, ale konsultacja kontrolna"
+            },
+            {
+              "code": "KAR010",
+              "name": "Konsultacja kardiologiczna pierwszorazowa",
+              "score": 0.68,
+              "reason": "Podobna nazwa, pierwszorazowa"
+            }
+          ],
+          "rationale": "Dokładne dopasowanie nazwy 'konsultacja kardiologiczna' do kodu KAR001",
+          "confidence": 0.95
+        },
+        {
+          "entity_id": "ent_002",
+          "mapping_type": "1-1",
+          "primary_codes": [
+            "KAR002"
+          ],
+          "alt_candidates": [
+            {
+              "code": "RAD002",
+              "name": "USG jamy brzusznej",
+              "score": 0.45,
+              "reason": "To też USG, ale inna lokalizacja"
+            }
+          ],
+          "rationale": "Wzmianka 'USG serca' dopasowana do echokardiografii (KAR002)",
+          "confidence": 0.92
+        },
+        {
+          "entity_id": "ent_003",
+          "mapping_type": "1-1",
+          "primary_codes": [
+            "KAR003"
+          ],
+          "alt_candidates": [
+            {
+              "code": "KAR004",
+              "name": "EKG wysiłkowe",
+              "score": 0.55,
+              "reason": "Podobne badanie, ale wysiłkowe"
+            }
+          ],
+          "rationale": "EKG spoczynkowe - standardowe badanie kardiologiczne",
+          "confidence": 0.90
+        }
+      ]
+    },
+    {
+      "variant_id": "variant_2",
+      "core_codes": [
+        "KAR001",
+        "KAR002",
+        "KAR003",
+        "KAR006"
+      ],
+      "prophylaxis_codes": [
+        "PROF001"
+      ],
+      "mappings": [
+        {
+          "entity_id": "ent_004",
+          "mapping_type": "1-m",
+          "primary_codes": [
+            "KAR001",
+            "KAR002",
+            "KAR003",
+            "KAR006"
+          ],
+          "alt_candidates": [],
+          "rationale": "Pakiet kardiologiczny obejmuje: konsultację, USG, EKG oraz Holter EKG",
+          "confidence": 0.88
+        },
+        {
+          "entity_id": "ent_005",
+          "mapping_type": "1-1",
+          "primary_codes": [
+            "PROF001"
+          ],
+          "alt_candidates": [],
+          "rationale": "Szczepienie przeciw grypie - program profilaktyczny",
+          "confidence": 0.96
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "processed_at": "2025-11-22T15:30:45",
+    "pipeline_version": "0.1.0",
+    "source_pdf": "siwz_2025_kardiologia.pdf",
+    "num_pages": 45,
+    "num_segments": 178,
+    "num_entities_detected": 5,
+    "num_variants": 2,
+    "processing_time_seconds": 127.5,
+    "llm_model": "gpt-4o",
+    "llm_total_tokens": 15420
+  }
+}
+

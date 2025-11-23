@@ -1,0 +1,33 @@
+[
+  {
+    "code": "SVC001",
+    "name": "Konsultacja kardiologiczna",
+    "category_info": {
+      "category": "Kardiologia",
+      "subcategory": "Konsultacje"
+    },
+    "description": "Wizyta u lekarza kardiologa",
+    "synonyms": ["wizyta kardiologiczna", "badanie kardiologiczne"]
+  },
+  {
+    "code": "SVC002",
+    "name": "USG serca",
+    "category_info": {
+      "category": "Kardiologia",
+      "subcategory": "Badania obrazowe"
+    },
+    "description": "Ultrasonografia serca",
+    "synonyms": ["echokardiografia", "echo serca"]
+  },
+  {
+    "code": "SVC003",
+    "name": "EKG spoczynkowe",
+    "category_info": {
+      "category": "Kardiologia",
+      "subcategory": "Badania diagnostyczne"
+    },
+    "description": "Elektrokardiogram w spoczynku",
+    "synonyms": ["elektrokardiografia"]
+  }
+]
+

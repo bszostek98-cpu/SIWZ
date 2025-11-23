@@ -1,0 +1,12 @@
+code,name,category,subcategory,synonyms
+KAR001,Konsultacja kardiologiczna,Kardiologia,Konsultacje,"wizyta kardiologiczna,badanie kardiologiczne"
+KAR002,USG serca,Kardiologia,Badania obrazowe,"echokardiografia,echo serca,USG kardiologiczne"
+KAR003,EKG spoczynkowe,Kardiologia,Badania diagnostyczne,elektrokardiografia
+KAR004,EKG wysiłkowe,Kardiologia,Badania diagnostyczne,"test wysiłkowy,próba wysiłkowa"
+KAR005,Holter EKG,Kardiologia,Badania diagnostyczne,"24h EKG,Holter"
+NEUR001,Konsultacja neurologiczna,Neurologia,Konsultacje,wizyta neurologiczna
+NEUR002,EEG,Neurologia,Badania diagnostyczne,elektroencefalografia
+RAD001,RTG klatki piersiowej,Radiologia,Rtg,"zdjęcie rentgenowskie,prześwietlenie"
+RAD002,USG jamy brzusznej,Radiologia,USG,ultrasonografia
+LAB001,Morfologia krwi,Laboratorium,Badania podstawowe,"badanie krwi,CBC"
+
