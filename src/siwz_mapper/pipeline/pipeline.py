@@ -4,30 +4,52 @@ import logging
 import json
 
 from ..config import Config
-from ..models import DocumentResult, VariantResult, ServiceEntry
+from ..models import DocumentResult, ServiceEntry
 from .pdf_extractor import PDFExtractor
 from .service_mapper import ServiceMapper
-from .variant_detector import VariantDetector
+from .variant_aggregator import VariantAggregator
 
 logger = logging.getLogger(__name__)
 
 
 class Pipeline:
-    def __init__(self, config: Optional[Config] = None, services: Optional[List[ServiceEntry]] = None):
+    """
+    High-level orchestrator.
+
+    Stage B (stub):
+    - extract segments from PDF
+    - return empty DocumentResult
+    Later (Stage C/D):
+    - classify segments (GPT)
+    - aggregate variants
+    - detect entities
+    - map services
+    """
+
+    def __init__(
+        self,
+        config: Optional[Config] = None,
+        services: Optional[List[ServiceEntry]] = None,
+    ):
         self.config = config or Config()
         self.services = services or []
 
         self.pdf_extractor = PDFExtractor(
             extract_bboxes=getattr(self.config.pipeline, "extract_bboxes", True)
         )
-        self.variant_detector = VariantDetector(llm_client=None)   # NEW
+
         self.service_mapper = ServiceMapper(
-            llm_client=None,
             services=self.services,
-            top_k=getattr(self.config.pipeline, "top_k_candidates", 10)
+            top_k=getattr(self.config.pipeline, "top_k_candidates", 10),
         )
 
-    def process(self, pdf_path: Path, output_path: Optional[Path] = None) -> DocumentResult:
+        self.variant_aggregator = VariantAggregator()
+
+    def process(
+        self,
+        pdf_path: Path,
+        output_path: Optional[Path] = None
+    ) -> DocumentResult:
         segments = self.pdf_extractor.extract(pdf_path)
 
         result = DocumentResult(
@@ -43,11 +65,10 @@ class Pipeline:
             output_path.parent.mkdir(parents=True, exist_ok=True)
             output_path.write_text(
                 json.dumps(result.model_dump(), indent=2, ensure_ascii=False),
-                encoding="utf-8"
+                encoding="utf-8",
             )
 
         return result
-
 
     def run(self, pdf_path: str) -> DocumentResult:
         return self.process(Path(pdf_path))

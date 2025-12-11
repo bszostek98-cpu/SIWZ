@@ -1,0 +1,2513 @@
+{
+  "mappings": [
+    {
+      "text_chunk": "1. Całodobowa informacja o usługach i świadczeniach zdrowotnych dostępnych w ramach umowy.",
+      "codes": []
+    },
+    {
+      "text_chunk": "2. Rezerwacja wizyt:",
+      "codes": []
+    },
+    {
+      "text_chunk": "2.1.  za pośrednictwem infolinii dostępnej całą dobę,",
+      "codes": []
+    },
+    {
+      "text_chunk": "2.2.  przez Internet (wykonawca udostępni odpowiednią stronę internetową/formularz),",
+      "codes": []
+    },
+    {
+      "text_chunk": "3. Możliwość otrzymywania SMS z potwierdzeniem terminu świadczeń zdrowotnych.",
+      "codes": []
+    },
+    {
+      "text_chunk": "4. Nielimitowany  dostęp  do  konsultacji  medycznych  świadczonych  przez  następujących specjalistów: (lista specjalistów: lekarz podstawowej opieki medycznej/lekarz rodzinny, internista, pediatra, chirurg ogólny, dermatolog, dermatolog wenerolog, ginekolog/ginekolog-położnik, otolaryngolog, neurolog, neurochirurg, okulista, pulmonolog, reumatolog, urolog, chirurg dziecięcy, urolog dziecięcy, otolaryngolog dziecięcy, neurolog dziecięcy)",
+      "codes": [
+        "9494.494.47",
+        "9595.395.36"
+      ]
+    },
+    {
+      "text_chunk": "5. Nielimitowane porady recepturowe (bez konsultacji lekarskiej).",
+      "codes": [
+        "8989.089.03"
+      ]
+    },
+    {
+      "text_chunk": "6. Prowadzenie ciąży: opieka lekarza ginekologa, konsultacje lekarskie  i  badania  diagnostyczne dostępne dla danego Ubezpieczonego  w  ramach  posiadanego  wariantu  ubezpieczenia.  Badania wykonywane na podstawie skierowania lekarskiego.",
+      "codes": []
+    },
+    {
+      "text_chunk": "7. Konsultacyjne zabiegi ambulatoryjne z zakresu chirurgii – na podstawie skierowania lekarskiego: (7.1–7.5 wymienione zabiegi: wycięcie klinowe wrastającego paznokcia, leczenie zanokcicy..., nacinanie i drenaż ropnia, opatrzenie drobnych urazów, usunięcie ciała obcego, kleszcza, zdejmowanie szwów itd.)",
+      "codes": []
+    },
+    {
+      "text_chunk": "8. Konsultacyjne zabiegi ambulatoryjne z zakresu dermatologii – na podstawie skierowania lekarskiego: 8.1. zeskrobiny zarażonej grzybem płytki paznokcia.",
+      "codes": [
+        "8686.186.11",
+        "8686.286.27"
+      ]
+    },
+    {
+      "text_chunk": "9. Konsultacyjne zabiegi ambulatoryjne z zakresu ginekologii (na podstawie skierowania lekarskiego): 9.1. pobranie i wykonanie standardowego wymazu cytologicznego, cytohormonalnego.",
+      "codes": [
+        "8989.289.26"
+      ]
+    },
+    {
+      "text_chunk": "10.  Konsultacyjne zabiegi ambulatoryjne z zakresu okulistyki (na podstawie skierowania lekarskiego): (10.1–10.17 lista badań okulistycznych: perymetria, gonioskopia, płukanie dróg łzowych, badanie dna oka, forii, lampa szczelinowa, ostrość widzenia, biometria, dobór szkieł, egzoftalmometria, opatrunek oczny z lekiem, pachymetria, pomiar ciśnienia śródgałkowego, refraktometria, skiaskopia/retinoskopia, usunięcie ciała obcego z oka/powieki).",
+      "codes": []
+    },
+    {
+      "text_chunk": "11.  Konsultacyjne zabiegi ambulatoryjne z zakresu urologii (na podstawie skierowania lekarskiego): 11.1. cewnikowanie pęcherza moczowego 11.2. płukanie pęcherza moczowego 11.3. wymiana cewnika (Ubezpieczony pokrywa koszty cewnika)",
+      "codes": []
+    },
+    {
+      "text_chunk": "12.  Konsultacyjne zabiegi ambulatoryjne z zakresu laryngologii (na podstawie skierowania lekarskiego): (12.1–12.6: opatrunek uszny z lekiem, pędzlowanie gardła, płukanie uszu, postępowanie przy krwawieniu z nosa, przedmuchiwanie trąbek słuchowych, usuwanie ciała obcego z ucha/nosa/gardła).",
+      "codes": []
+    },
+    {
+      "text_chunk": "13.  Ambulatoryjna opieka pielęgniarska (na podstawie skierowania lekarskiego): (13.1–13.4: iniekcje; pomiar ciśnienia tętniczego, próba uczuleniowa, podłączenie wlewu dożylnego; zmiana prostego opatrunku i toaleta rany; lewatywa).",
+      "codes": []
+    },
+    {
+      "text_chunk": "14.  Badania biochemiczne z krwi (na podstawie skierowania lekarskiego):",
+      "codes": []
+    },
+    {
+      "text_chunk": "14.1. amylaza/diastaza (AMY)",
+      "codes": [
+        "AAII25"
+      ]
+    },
+    {
+      "text_chunk": "14.2. azot mocznikowy (BUN)",
+      "codes": [
+        "AANN13"
+      ]
+    },
+    {
+      "text_chunk": "14.3. białko całkowite (BCA)",
+      "codes": [
+        "AAII77"
+      ]
+    },
+    {
+      "text_chunk": "14.4. białko całkowite – rozdział elektro-foretyczny (proteinogram)",
+      "codes": [
+        "AAII79"
+      ]
+    },
+    {
+      "text_chunk": "14.5. bilirubina całkowita (BILC/BIL total)",
+      "codes": [
+        "AAII89"
+      ]
+    },
+    {
+      "text_chunk": "14.6. bilirubina bezpośrednia/sprzężona/związana (BILB/BIL direct)",
+      "codes": [
+        "AAII87"
+      ]
+    },
+    {
+      "text_chunk": "14.7. bilirubina pośrednia/wolna",
+      "codes": [
+        "AAII91"
+      ]
+    },
+    {
+      "text_chunk": "14.8. chlorki",
+      "codes": [
+        "AAII97"
+      ]
+    },
+    {
+      "text_chunk": "14.9. czynnik reumatoidalny ilościowy",
+      "codes": [
+        "AAKK21"
+      ]
+    },
+    {
+      "text_chunk": "14.10. czynnik reumatoidalny (RF) lateksowy/jakościowy",
+      "codes": [
+        "AAKK21"
+      ]
+    },
+    {
+      "text_chunk": "14.11. dehydrogenaza mleczanowa (LDH/LD)",
+      "codes": [
+        "AAKK33"
+      ]
+    },
+    {
+      "text_chunk": "14.12. fosfataza: alkaliczna/zasadowa (ALP/ALK), kwaśna całkowita (ACP), kwaśna sterczowa (PAP)",
+      "codes": [
+        "AALL11",
+        "AALL15",
+        "AALL17"
+      ]
+    },
+    {
+      "text_chunk": "14.13. fosfor (P)/fosforan nieorganiczny",
+      "codes": [
+        "AALL23"
+      ]
+    },
+    {
+      "text_chunk": "14.14. USR",
+      "codes": []
+    },
+    {
+      "text_chunk": "14.15. VDRL",
+      "codes": []
+    },
+    {
+      "text_chunk": "14.16. albumina (ALB)",
+      "codes": [
+        "AAII09"
+      ]
+    },
+    {
+      "text_chunk": "14.17. aminotransferaza alaninowa (AlAT/ALT/GPT)",
+      "codes": [
+        "AAII17"
+      ]
+    },
+    {
+      "text_chunk": "14.18. aminotransferaza asparaginowa (AspAT/AST/GOT)",
+      "codes": [
+        "AAII19"
+      ]
+    },
+    {
+      "text_chunk": "14.19. białko C-reaktywne (CRP/hs-CRP) – ilościowo",
+      "codes": [
+        "AAII81"
+      ]
+    },
+    {
+      "text_chunk": "14.20. białko C-reaktywne (CRP/hs-CRP) – jakościowo",
+      "codes": [
+        "AAII81"
+      ]
+    },
+    {
+      "text_chunk": "14.21. białko C-reaktywne – test paskowy, gamma,",
+      "codes": [
+        "AAII81"
+      ]
+    },
+    {
+      "text_chunk": "14.22. glutamylotranferaza (GGTP/GGT)",
+      "codes": [
+        "AALL31"
+      ]
+    },
+    {
+      "text_chunk": "14.23. glukoza na czczo",
+      "codes": [
+        "AALL43"
+      ]
+    },
+    {
+      "text_chunk": "14.24. glukoza badanie glukometrem",
+      "codes": [
+        "AAKK04",
+        "AALL43"
+      ]
+    },
+    {
+      "text_chunk": "14.25. sód (Na) i potas (K)",
+      "codes": [
+        "AANN45"
+      ]
+    },
+    {
+      "text_chunk": "14.26. chlorki",
+      "codes": [
+        "AAII97"
+      ]
+    },
+    {
+      "text_chunk": "14.27. kreatynina/klirens kreatyniny (GFR)",
+      "codes": [
+        "AAMM37"
+      ]
+    },
+    {
+      "text_chunk": "14.28. mocznik",
+      "codes": [
+        "AANN13"
+      ]
+    },
+    {
+      "text_chunk": "14.29. próby wątrobowe (ALAT/ALT/GPT, AspAT/AST/GOT)",
+      "codes": [
+        "AAII17",
+        "AAII19"
+      ]
+    },
+    {
+      "text_chunk": "14.30. kinaza fosfokreaty-nowa/kreatynowa (CK/CPK)",
+      "codes": [
+        "AAMM18"
+      ]
+    },
+    {
+      "text_chunk": "14.31. kinaza fosfokreatynowa izoenzym (CKMB) – mass",
+      "codes": [
+        "AAMM19"
+      ]
+    },
+    {
+      "text_chunk": "14.32. kinaza fosfokreatynowa izoenzym (CKMB) – aktywność",
+      "codes": [
+        "AAMM19"
+      ]
+    },
+    {
+      "text_chunk": "14.33. kwas moczowy",
+      "codes": [
+        "AAMM45"
+      ]
+    },
+    {
+      "text_chunk": "14.34. magnez (Mg)",
+      "codes": [
+        "AAMM87"
+      ]
+    },
+    {
+      "text_chunk": "14.35. wapń całkowity (Ca)",
+      "codes": []
+    },
+    {
+      "text_chunk": "14.36. wapń zjonizowany",
+      "codes": [
+        "AAOO75"
+      ]
+    },
+    {
+      "text_chunk": "15.   Diagnostyka miażdżycy – badania z krwi (na podstawie skierowania lekarskiego):",
+      "codes": []
+    },
+    {
+      "text_chunk": "15.1. cholesterol – badanie paskowe,",
+      "codes": [
+        "AAII99"
+      ]
+    },
+    {
+      "text_chunk": "15.2. cholesterol całkowity (CHOL),",
+      "codes": [
+        "AAII99"
+      ]
+    },
+    {
+      "text_chunk": "15.3. cholesterol HDL,",
+      "codes": [
+        "AAKK01"
+      ]
+    },
+    {
+      "text_chunk": "15.4. cholesterol LDL,",
+      "codes": [
+        "AAKK03"
+      ]
+    },
+    {
+      "text_chunk": "15.5. lipidogram (TC, HDL, LDL, TRG/TG),",
+      "codes": [
+        "AAII99",
+        "AAKK01",
+        "AAKK03",
+        "AAMM71"
+      ]
+    },
+    {
+      "text_chunk": "15.6. triglicerydy (TRIG/TG).",
+      "codes": [
+        "AAMM71"
+      ]
+    },
+    {
+      "text_chunk": "16.  Diagnostyka cukrzycy – badania z krwi (na podstawie skierowania lekarskiego): 16.1. glukoza/cukier na czczo",
+      "codes": [
+        "0000.900.96",
+        "AAKK04",
+        "AALL43"
+      ]
+    },
+    {
+      "text_chunk": "17.   Diagnostyka niedokrwistości (anemii) – badania z krwi (na podstawie skierowania lekarskiego): 17.1. żelazo (Fe)",
+      "codes": []
+    },
+    {
+      "text_chunk": "17.2. żelazo – całkowita zdolność wiązania (TIBC)",
+      "codes": [
+        "AAOO93"
+      ]
+    },
+    {
+      "text_chunk": "17.3. transferryna",
+      "codes": [
+        "AAOO43",
+        "AAOO45"
+      ]
+    },
+    {
+      "text_chunk": "18.  Badania hematologiczne z krwi (na podstawie skierowania lekarskiego):",
+      "codes": []
+    },
+    {
+      "text_chunk": "18.1. grupa krwi",
+      "codes": [
+        "AAEE65"
+      ]
+    },
+    {
+      "text_chunk": "18.2. czas kaolinowo-kefalinowy (APTT),",
+      "codes": [
+        "AAGG11"
+      ]
+    },
+    {
+      "text_chunk": "18.3. czas krwawienia,",
+      "codes": [
+        "AAGG15"
+      ]
+    },
+    {
+      "text_chunk": "18.4. czas krzepnięcia,",
+      "codes": [
+        "AAGG19"
+      ]
+    },
+    {
+      "text_chunk": "18.5. czas krwawienia i krzepnięcia,",
+      "codes": [
+        "AAGG15",
+        "AAGG19"
+      ]
+    },
+    {
+      "text_chunk": "18.6. czas trombinowy (TT),",
+      "codes": [
+        "AAGG25"
+      ]
+    },
+    {
+      "text_chunk": "18.7. czas protrombinowy (PT/wskaźnik Quicka/INR),",
+      "codes": [
+        "AAGG21"
+      ]
+    },
+    {
+      "text_chunk": "18.8. fibrynogen (czynnik krzepnięcia I),",
+      "codes": [
+        "AAGG53"
+      ]
+    },
+    {
+      "text_chunk": "18.9. koagulogram (PT, APTT, fibrynogen, czas trombinowy),",
+      "codes": [
+        "AAGG11",
+        "AAGG21",
+        "AAGG25",
+        "AAGG53"
+      ]
+    },
+    {
+      "text_chunk": "18.10. morfologia krwi obwodowej: kompletna morfologia krwi obwodowej (Hgb, Hct, erytrocyty (RBC), leukocyty (WBC), płytki krwi",
+      "codes": [
+        "AACC53"
+      ]
+    },
+    {
+      "text_chunk": "18.11. morfologia krwi obwodowej: kompletna morfologia krwi obwodowej (Hgb, Hct, erytrocyty (RBC), leukocyty (WBC), płytki krwi – automatyczne zliczanie odsetek leukocytów",
+      "codes": [
+        "AACC55"
+      ]
+    },
+    {
+      "text_chunk": "18.12. morfologia krwi obwodowej z rozmazem, ocena mikroskopowa oraz ręcznie wykonany wzór odsetkowy leukocytów",
+      "codes": [
+        "AACC32",
+        "AACC55"
+      ]
+    },
+    {
+      "text_chunk": "18.13. płytki krwi,",
+      "codes": [
+        "AACC66"
+      ]
+    },
+    {
+      "text_chunk": "18.14. odczyn opadania krwinek czerwonych (OB – odczyn Biernackiego),",
+      "codes": [
+        "AACC59"
+      ]
+    },
+    {
+      "text_chunk": "18.15. rozmaz krwi obwodowej,",
+      "codes": [
+        "AACC32"
+      ]
+    },
+    {
+      "text_chunk": "18.16. retikulocyty.",
+      "codes": [
+        "AACC69"
+      ]
+    },
+    {
+      "text_chunk": "19.  Badania serologiczne z krwi (na podstawie skierowania lekarskiego): 19.1. odczyn Waaler-Rosego,",
+      "codes": []
+    },
+    {
+      "text_chunk": "19.2. odczyn Wassermanna (WR),",
+      "codes": []
+    },
+    {
+      "text_chunk": "19.3. USR,",
+      "codes": [
+        "AAUU79",
+        "AAUU81"
+      ]
+    },
+    {
+      "text_chunk": "19.4. VDRL",
+      "codes": [
+        "AAUU79",
+        "AAUU81"
+      ]
+    },
+    {
+      "text_chunk": "19.5. antygen HBs (HbsAg, HBs),",
+      "codes": [
+        "AAVV39"
+      ]
+    },
+    {
+      "text_chunk": "19.6. antygen HBs – test potwierdzenia,",
+      "codes": [
+        "AAVV41"
+      ]
+    },
+    {
+      "text_chunk": "19.7. antystreptolizyna (ASO/ASLO/ASO latex)",
+      "codes": [
+        "AAUU75"
+      ]
+    },
+    {
+      "text_chunk": "20.  Badania moczu (na podstawie skierowania lekarskiego):",
+      "codes": []
+    },
+    {
+      "text_chunk": "20.1. amylaza/diastaza (AMY),",
+      "codes": []
+    },
+    {
+      "text_chunk": "20.2. amylaza/diastaza z dobowej zbiórki moczu,",
+      "codes": []
+    },
+    {
+      "text_chunk": "20.3. badanie ogólne moczu,",
+      "codes": [
+        "AAAA01"
+      ]
+    },
+    {
+      "text_chunk": "20.4. badanie ogólne moczu – badanie paskowe,",
+      "codes": [
+        "AAAA01"
+      ]
+    },
+    {
+      "text_chunk": "20.5. białko ilościowe,",
+      "codes": [
+        "AAAA07"
+      ]
+    },
+    {
+      "text_chunk": "20.6. białko z dobowej zbiórki moczu,",
+      "codes": [
+        "AAAA07"
+      ]
+    },
+    {
+      "text_chunk": "20.7. białko Bence-Jonesa metodą, 20.8. immunofiksacji,",
+      "codes": [
+        "AAII86"
+      ]
+    },
+    {
+      "text_chunk": "20.9. bilirubina,",
+      "codes": [
+        "AAAA09"
+      ]
+    },
+    {
+      "text_chunk": "20.10. glukoza/cukier i ketony,",
+      "codes": [
+        "AAAA11",
+        "AAAA15"
+      ]
+    },
+    {
+      "text_chunk": "20.11. glukoza/cukier z dobowej zbiórki moczu,",
+      "codes": [
+        "AAAA15"
+      ]
+    },
+    {
+      "text_chunk": "20.12. urobilinogen,",
+      "codes": [
+        "AAAA25"
+      ]
+    },
+    {
+      "text_chunk": "20.13. kreatynina,",
+      "codes": [
+        "AAMM37"
+      ]
+    },
+    {
+      "text_chunk": "20.14. kreatynina z dobowej zbiórko moczu,",
+      "codes": [
+        "AAMM37"
+      ]
+    },
+    {
+      "text_chunk": "20.15. chlorki,",
+      "codes": [
+        "AAII97"
+      ]
+    },
+    {
+      "text_chunk": "20.16. chlorki z dobowej zbiórki moczu,",
+      "codes": [
+        "AAII97"
+      ]
+    },
+    {
+      "text_chunk": "20.17. fosfor (P)/fosforan nieorganiczny,",
+      "codes": [
+        "AALL23"
+      ]
+    },
+    {
+      "text_chunk": "20.18. fosfor (P)/fosforan nieorganiczny z dobowej zbiórki moczu,",
+      "codes": [
+        "AALL23"
+      ]
+    },
+    {
+      "text_chunk": "20.19. sód (Na),",
+      "codes": [
+        "AAOO35"
+      ]
+    },
+    {
+      "text_chunk": "20.20. sód (Na) z dobowej zbiórki moczu,",
+      "codes": []
+    },
+    {
+      "text_chunk": "20.21. potas (K),",
+      "codes": [
+        "AANN45"
+      ]
+    },
+    {
+      "text_chunk": "20.22. potas (K) z dobowej zbiórki moczu,",
+      "codes": [
+        "AANN45"
+      ]
+    },
+    {
+      "text_chunk": "20.23. chlorki,",
+      "codes": [
+        "AAII97"
+      ]
+    },
+    {
+      "text_chunk": "20.24. klirens kreatyniny z dobowej zbiórki moczu (GHR),",
+      "codes": [
+        "AAMM37"
+      ]
+    },
+    {
+      "text_chunk": "20.25. kwas moczowy,",
+      "codes": [
+        "AAMM45"
+      ]
+    },
+    {
+      "text_chunk": "20.26. kwas moczowy z dobowej zbiórki moczu,",
+      "codes": [
+        "AAMM45"
+      ]
+    },
+    {
+      "text_chunk": "20.27. liczba Addisa z dobowej zbiórki moczu,",
+      "codes": []
+    },
+    {
+      "text_chunk": "20.28. magnez całkowity (Mg),",
+      "codes": [
+        "AAMM87"
+      ]
+    },
+    {
+      "text_chunk": "20.29. magnez (Mg) z dobowej zbiórki moczu,",
+      "codes": [
+        "AAMM87"
+      ]
+    },
+    {
+      "text_chunk": "20.30. mocznik,",
+      "codes": [
+        "AANN13"
+      ]
+    },
+    {
+      "text_chunk": "20.31. mocznik z dobowej zbiórki moczu,",
+      "codes": [
+        "AANN13"
+      ]
+    },
+    {
+      "text_chunk": "20.32. wapń całkowity (Ca),",
+      "codes": []
+    },
+    {
+      "text_chunk": "20.33. wapń z dobowej zbiórki moczu,",
+      "codes": []
+    },
+    {
+      "text_chunk": "20.34. wydalanie wapnia w stosunku do kreatyniny",
+      "codes": []
+    },
+    {
+      "text_chunk": "21.  Badania kału (na podstawie skierowania lekarskiego):",
+      "codes": []
+    },
+    {
+      "text_chunk": "21.1. badanie ogólne kału cysty lamblii (ELISA),",
+      "codes": [
+        "AAAA21",
+        "AAXX13"
+      ]
+    },
+    {
+      "text_chunk": "21.2. jaja pasożytów,",
+      "codes": [
+        "AAAA21"
+      ]
+    },
+    {
+      "text_chunk": "21.3. kał na krew utajoną (FOBT),",
+      "codes": [
+        "AAAA17"
+      ]
+    },
+    {
+      "text_chunk": "21.4. pojedyncze badanie w kierunku Shigella Salmonella,",
+      "codes": [
+        "AAUU55",
+        "AAUU61"
+      ]
+    },
+    {
+      "text_chunk": "21.5. 3 krotne badanie kału w kierunku Shigella Salmonella.",
+      "codes": [
+        "AAUU55",
+        "AAUU61"
+      ]
+    },
+    {
+      "text_chunk": "22.  Badania histopatologiczne: 22.1. pobranie i ocena preparatu histopatologicznego z fragmentów tkankowych pobranych podczas badań i zabiegów ambulatoryjnych przysługujących Ubezpieczonemu w ramach wariantu ubezpieczenia)",
+      "codes": [
+        "0000.900.96",
+        "AAYY90"
+      ]
+    },
+    {
+      "text_chunk": "23.  Badania  radiologiczne  z  opisem  – RTG  (na  podstawie  skierowania  lekarskiego).  Zakres  obejmuje pokrycie kosztu kontrastu używanego do badań oraz RTG: (23.1–23.117 długa lista projekcji RTG)",
+      "codes": []
+    },
+    {
+      "text_chunk": "24.  USG - narząd rodny, narządy męskie,  ciąża (na podstawie skierowania lekarskiego) - łączna liczba badań –  limit min. 10 w każdych 12 miesiącach trwania zobowiązania wobec Ubezpieczonego, licząc od dnia objęcia ochroną danego Ubezpieczonego): (24.1–24.6: narządu rodnego/miednicy mniejszej transvaginalne, ocena szyjki macicy transvaginalne, narządu rodnego przez powłoki brzuszne, prostata przez powłoki brzuszne, transrektalne TRUS, płodu).",
+      "codes": []
+    },
+    {
+      "text_chunk": "25.  USG – jama brzuszna, układ moczowy (na podstawie skierowania lekarskiego): 25.1. jamy brzusznej, 25.2. układu moczowego (ocena pęcherza moczowego i nerek).",
+      "codes": []
+    },
+    {
+      "text_chunk": "26.  USG – narządu ruchu (stawy i mięśnie) (na podstawie skierowania lekarskiego): (26.1–26.8 lista stawów i okolic do badania USG).",
+      "codes": []
+    },
+    {
+      "text_chunk": "27.  USG – pozostałe (na podstawie skierowania lekarskiego): 27.1. piersi, 27.2. biopsja cienkoigłowa piersi pod kontrolą USG wraz z pobraniem materiału do badania cytologicznego (BAC) i jego oceną, 27.3. tarczycy, 27.4. biopsja cienkoigłowa tarczycy pod kontrolą USG wraz z pobraniem materiału do badania cytologicznego i jego oceną, 27.5. jąder i najądrzy, 27.6. powrózka nasiennego",
+      "codes": [
+        "AAYY90",
+        "AAYY96"
+      ]
+    },
+    {
+      "text_chunk": "28.  Badania czynnościowe układu krążenia (na podstawie skierowania lekarskiego): 28.1. EKG spoczynkowe",
+      "codes": []
+    },
+    {
+      "text_chunk": "29.  Szczepienia wraz z konsultacją lekarską przed szczepieniem obejmuje iniekcję, koszt szczepionki oraz konsultację kwalifikacyjną przed szczepieniem: 29.1. p. grypie sezonowej – 1 dawka w każdych 12 miesiącach trwania zobowiązania wobec Ubezpieczonego, licząc od dnia objęcia ochroną danego Ubezpieczonego",
+      "codes": []
+    },
+    {
+      "text_chunk": "30.  Przegląd stanu zdrowia (bez skierowania lekarskiego): ubezpieczony ma możliwość korzystania z profilaktycznego  przeglądu  stanu  zdrowia  dwa  razy  w  12-miesięcznych okresach trwania zobowiązania wobec Ubezpieczonego, licząc od dnia objęcia ochroną danego Ubezpieczonego. Profilaktyczny przegląd stanu zdrowia obejmuje badania diagnostyczne:",
+      "codes": []
+    },
+    {
+      "text_chunk": "30.1. aminotransferaza alaninowa (ALAT/ALT/GPT),",
+      "codes": [
+        "AAII17"
+      ]
+    },
+    {
+      "text_chunk": "30.2. aminotransferaza asparaginowa (AspAT/AST/GOT),",
+      "codes": [
+        "AAII19"
+      ]
+    },
+    {
+      "text_chunk": "30.3. morfologia krwi z rozmazem (z analizatora/rozmaz automatyczny),",
+      "codes": [
+        "AACC55"
+      ]
+    },
+    {
+      "text_chunk": "30.4. odczyn opadania krwinek czerwonych (OB),",
+      "codes": [
+        "AACC59"
+      ]
+    },
+    {
+      "text_chunk": "30.5. glukoza/cukier na czczo,",
+      "codes": [
+        "AALL43"
+      ]
+    },
+    {
+      "text_chunk": "30.6. badanie ogólne moczu,",
+      "codes": [
+        "AAAA01"
+      ]
+    },
+    {
+      "text_chunk": "30.7. cholesterol całkowity (CHOL).",
+      "codes": [
+        "AAII99"
+      ]
+    },
+    {
+      "text_chunk": "31.  Zamawiający  wymaga  by  Wykonawca  zapewnił  minimum  10%  zniżki  od  aktualnej  ceny obowiązującej w placówce do której zgłoszony został Ubezpieczony na wszystkie usługi medyczne świadczone w tej placówce, które nie są objęte posiadanym przez Ubezpieczonego pakietem (w tym  również  na  stomatologiczne  leczenie  zachowawcze  i  chirurgiczne;  zniżka  nie  dotyczy diagnostyki rentgenowskiej, leczenia ortodontycznego, protetycznego, implanatologii, stomatologii estetycznej).",
+      "codes": []
+    },
+    {
+      "text_chunk": "4. Nielimitowany  dostęp  do  konsultacji  medycznych  świadczonych  przez  następujących specjalistów:",
+      "codes": []
+    },
+    {
+      "text_chunk": "4.1.  lekarz podstawowej opieki medycznej/lekarz rodzinny",
+      "codes": []
+    },
+    {
+      "text_chunk": "4.2.  internista",
+      "codes": []
+    },
+    {
+      "text_chunk": "4.3.  pediatra",
+      "codes": []
+    },
+    {
+      "text_chunk": "4.4.  chirurg ogólny",
+      "codes": []
+    },
+    {
+      "text_chunk": "4.5.  dermatolog",
+      "codes": []
+    },
+    {
+      "text_chunk": "4.6.  dermatolog wenerolog",
+      "codes": []
+    },
+    {
+      "text_chunk": "4.7.  ginekolog/ginekolog-położnik",
+      "codes": []
+    },
+    {
+      "text_chunk": "4.8.  otolaryngolog",
+      "codes": []
+    },
+    {
+      "text_chunk": "4.9.  neurolog",
+      "codes": []
+    },
+    {
+      "text_chunk": "4.10. neurochirurg",
+      "codes": []
+    },
+    {
+      "text_chunk": "4.11. okulista",
+      "codes": []
+    },
+    {
+      "text_chunk": "4.12. pulmonolog",
+      "codes": []
+    },
+    {
+      "text_chunk": "4.13. reumatolog",
+      "codes": []
+    },
+    {
+      "text_chunk": "4.14. urolog",
+      "codes": []
+    },
+    {
+      "text_chunk": "4.15. chirurg dziecięcy",
+      "codes": []
+    },
+    {
+      "text_chunk": "4.16. urolog dziecięcy",
+      "codes": []
+    },
+    {
+      "text_chunk": "4.17. otolaryngolog dziecięcy",
+      "codes": []
+    },
+    {
+      "text_chunk": "4.18. neurolog dziecięcy",
+      "codes": []
+    },
+    {
+      "text_chunk": "7. Konsultacyjne zabiegi ambulatoryjne z zakresu chirurgii – na podstawie skierowania lekarskiego:",
+      "codes": []
+    },
+    {
+      "text_chunk": "7.1.  wycięcie klinowe wrastającego paznokcia,",
+      "codes": []
+    },
+    {
+      "text_chunk": "7.2.  leczenie zanokcicy z wycięciem klinowym paznokcia lub usunięciem płytki paznokciowej,",
+      "codes": []
+    },
+    {
+      "text_chunk": "7.3.  nacinanie i drenaż ropnia: skóry, krwiaka, czyraka,",
+      "codes": [
+        "2323.2023.2001",
+        "2727.027.01"
+      ]
+    },
+    {
+      "text_chunk": "7.4.  opatrzenie drobnych urazów: rany, skręcenia, zwichnięcia, opatrzenie drobnych oparzeń i odmrożeń, proste zamknięcie powierzchownych ran,",
+      "codes": [
+        "2323.1823.1815",
+        "9393.593.50"
+      ]
+    },
+    {
+      "text_chunk": "7.5.  usunięcie: ciała obcego, kleszcza, założenie prostego opatrunku chirurgicznego, zdejmowanie szwów, zmiana prostego opatrunku i toaleta rany.",
+      "codes": [
+        "2323.1823.1815",
+        "2828.928.91",
+        "9393.593.57",
+        "9797.897.89",
+        "9898.298.20"
+      ]
+    },
+    {
+      "text_chunk": "8. Konsultacyjne zabiegi ambulatoryjne z zakresu dermatologii – na podstawie skierowania lekarskiego:",
+      "codes": []
+    },
+    {
+      "text_chunk": "8.1.  zeskrobiny zarażonej grzybem płytki paznokcia.",
+      "codes": [
+        "0000.900.96"
+      ]
+    },
+    {
+      "text_chunk": "9. Konsultacyjne zabiegi ambulatoryjne z zakresu ginekologii (na podstawie skierowania lekarskiego):",
+      "codes": []
+    },
+    {
+      "text_chunk": "9.1.  pobranie i wykonanie standardowego wymazu cytologicznego, cytohormonalnego.",
+      "codes": [
+        "0000.900.96"
+      ]
+    },
+    {
+      "text_chunk": "10.  Konsultacyjne zabiegi ambulatoryjne z zakresu okulistyki (na podstawie skierowania lekarskiego):",
+      "codes": []
+    },
+    {
+      "text_chunk": "10.1. badanie pola widzenia (perymetria),",
+      "codes": []
+    },
+    {
+      "text_chunk": "10.2. gonioskopia (ocena kąta przesączania),",
+      "codes": []
+    },
+    {
+      "text_chunk": "10.3. płukanie dróg łzowych,",
+      "codes": [
+        "0909.909.92"
+      ]
+    },
+    {
+      "text_chunk": "10.4. badanie dna oka,",
+      "codes": []
+    },
+    {
+      "text_chunk": "10.5. badanie forii,",
+      "codes": []
+    },
+    {
+      "text_chunk": "10.6. badanie lampą szczelinową,",
+      "codes": []
+    },
+    {
+      "text_chunk": "10.7. badanie ostrości widzenia,",
+      "codes": []
+    },
+    {
+      "text_chunk": "10.8. biometria,",
+      "codes": []
+    },
+    {
+      "text_chunk": "10.9. dobór szkieł okularowych,",
+      "codes": []
+    },
+    {
+      "text_chunk": "10.10. egzoftalmometria (badanie wytrzeszczu),",
+      "codes": []
+    },
+    {
+      "text_chunk": "10.11. opatrunek oczny z lekiem,",
+      "codes": [
+        "1616.816.81"
+      ]
+    },
+    {
+      "text_chunk": "10.12. pachymetria,",
+      "codes": []
+    },
+    {
+      "text_chunk": "10.13. pomiar ciśnienia śródgałkowego,",
+      "codes": []
+    },
+    {
+      "text_chunk": "10.15. refraktometria (komputerowe badanie wzroku),",
+      "codes": []
+    },
+    {
+      "text_chunk": "10.16. skiaskopia/retinoskopia (badanie refrakcji oka),",
+      "codes": []
+    },
+    {
+      "text_chunk": "10.17. usunięcie ciała obcego z oka/powieki.",
+      "codes": [
+        "1212.012.02"
+      ]
+    },
+    {
+      "text_chunk": "11.  Konsultacyjne zabiegi ambulatoryjne z zakresu urologii (na podstawie skierowania lekarskiego):",
+      "codes": []
+    },
+    {
+      "text_chunk": "11.1. cewnikowanie pęcherza moczowego",
+      "codes": [
+        "5757.057.01",
+        "5858.658.62",
+        "5959.859.82"
+      ]
+    },
+    {
+      "text_chunk": "11.2. płukanie pęcherza moczowego",
+      "codes": [
+        "5757.057.09"
+      ]
+    },
+    {
+      "text_chunk": "11.3. wymiana cewnika (Ubezpieczony pokrywa koszty cewnika)",
+      "codes": [
+        "5757.957.95",
+        "5858.658.62",
+        "5959.859.82"
+      ]
+    },
+    {
+      "text_chunk": "12.  Konsultacyjne zabiegi ambulatoryjne z zakresu laryngologii (na podstawie skierowania lekarskiego):",
+      "codes": []
+    },
+    {
+      "text_chunk": "12.1. opatrunek uszny z lekiem,",
+      "codes": [
+        "1818.118.11",
+        "2323.1823.1815"
+      ]
+    },
+    {
+      "text_chunk": "12.2. pędzlowanie: gardła, jamy ustnej,",
+      "codes": []
+    },
+    {
+      "text_chunk": "12.3. płukanie uszu,",
+      "codes": [
+        "1818.118.11"
+      ]
+    },
+    {
+      "text_chunk": "12.4. postępowanie zachowawcze w  przypadku  krwawienia  z  nosa  (założenie  gąbki spongostanowej założenie i usunięcie tamponady przedniej nosa koagulacja naczyń splotu Kisselbacha),",
+      "codes": []
+    },
+    {
+      "text_chunk": "12.5. przedmuchiwanie trąbek słuchowych,",
+      "codes": [
+        "2020.820.82",
+        "2020.820.85"
+      ]
+    },
+    {
+      "text_chunk": "12.6. usuwanie ciała obcego z: ucha, nosa, gardła.",
+      "codes": [
+        "1818.218.29",
+        "2828.928.91"
+      ]
+    },
+    {
+      "text_chunk": "13.  Ambulatoryjna opieka pielęgniarska (na podstawie skierowania lekarskiego):",
+      "codes": []
+    },
+    {
+      "text_chunk": "13.1. iniekcje: dożylne, domięśniowe, podskórne, śródskórne (Ubezpieczony ponosi koszty podawanych leków),",
+      "codes": []
+    },
+    {
+      "text_chunk": "13.2. pomiar  ciśnienia  tętniczego,  próba  uczuleniowa  na  lek,  podłączenie  wlewu dożylnego/kroplowego (Ubezpieczony ponosi koszty podawanych leków, płynów),",
+      "codes": []
+    },
+    {
+      "text_chunk": "13.3. zmiana prostego opatrunku i toaleta rany,",
+      "codes": [
+        "2323.1823.1815"
+      ]
+    },
+    {
+      "text_chunk": "13.4. lewatywa",
+      "codes": []
+    },
+    {
+      "text_chunk": "14.15. VDRL,",
+      "codes": [
+        "AAUU79",
+        "AAUU81"
+      ]
+    },
+    {
+      "text_chunk": "14.23. glukoza na czczo,",
+      "codes": []
+    },
+    {
+      "text_chunk": "14.25. sód (Na) i potas (K),",
+      "codes": [
+        "AAOO35"
+      ]
+    },
+    {
+      "text_chunk": "14.35. wapń całkowity (Ca),",
+      "codes": [
+        "AAOO77"
+      ]
+    },
+    {
+      "text_chunk": "15.   Diagnostyka miażdżycy – badania z krwi (na podstawie skierowania lekarskiego): 15.6. triglicerydy (TRIG/TG).",
+      "codes": [
+        "AAOO49"
+      ]
+    },
+    {
+      "text_chunk": "17.   Diagnostyka niedokrwistości (anemii) – badania z krwi (na podstawie skierowania lekarskiego):",
+      "codes": []
+    },
+    {
+      "text_chunk": "17.1. żelazo (Fe)",
+      "codes": [
+        "AAOO95"
+      ]
+    },
+    {
+      "text_chunk": "18.  Badania hematologiczne z krwi (na podstawie skierowania lekarskiego): (m.in. grupa krwi, APTT, czas krwawienia/krzepnięcia, morfologia, OB, rozmaz, retikulocyty)",
+      "codes": []
+    },
+    {
+      "text_chunk": "19.  Badania serologiczne z krwi (na podstawie skierowania lekarskiego):",
+      "codes": []
+    },
+    {
+      "text_chunk": "19.1. odczyn Waaler-Rosego,",
+      "codes": []
+    },
+    {
+      "text_chunk": "20.  Badania moczu (na podstawie skierowania lekarskiego): (w tym: badanie ogólne, białko, kreatynina, sód, potas, klirens kreatyniny z dobowej zbiórki itd.)",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.  Badania  radiologiczne  z  opisem  – RTG (na  podstawie  skierowania  lekarskiego).  Zakres  obejmuje pokrycie kosztu kontrastu używanego do badań oraz RTG: (szczegółowy wykaz projekcji i części ciała)",
+      "codes": []
+    },
+    {
+      "text_chunk": "24.  USG - narząd rodny, narządy męskie,  ciąża (na podstawie skierowania lekarskiego) - łączna liczba badań –  limit min. 10 w każdych 12 miesiącach trwania zobowiązania wobec Ubezpieczonego, licząc od dnia objęcia ochroną danego Ubezpieczonego): (m.in. narządu rodnego transvaginalne, prostata, TRUS, płodu)",
+      "codes": []
+    },
+    {
+      "text_chunk": "25.  USG – jama brzuszna, układ moczowy (na podstawie skierowania lekarskiego): (jamy brzusznej, układu moczowego)",
+      "codes": []
+    },
+    {
+      "text_chunk": "26.  USG – narządu ruchu (stawy i mięśnie) (na podstawie skierowania lekarskiego): (barku, stawu biodrowego, stawu skokowego, stawu łokciowego, stawu kolanowego itd.)",
+      "codes": []
+    },
+    {
+      "text_chunk": "30.1. aminotransferaza alaninowa (ALAT/ALT/GPT), 30.2. aminotransferaza asparaginowa (AspAT/AST/GOT), 30.3. morfologia krwi z rozmazem (z analizatora/rozmaz automatyczny), 30.4. odczyn opadania krwinek czerwonych (OB), 30.5. glukoza/cukier na czczo, 30.6. badanie ogólne moczu, 30.7. cholesterol całkowity (CHOL).",
+      "codes": [
+        "0000.900.96"
+      ]
+    },
+    {
+      "text_chunk": "Załącznik nr 2 A do OPZ zad. 1 - Minimalny wymagany zakres świadczeń w opiece medycznej – WARIANT 1",
+      "codes": []
+    },
+    {
+      "text_chunk": "Wymagany minimalny poziom świadczeń.",
+      "codes": []
+    },
+    {
+      "text_chunk": "6. Prowadzenie ciąży: opieka lekarza ginekologa, konsultacje lekarskie i badania diagnostyczne dostępne dla danego Ubezpieczonego w ramach posiadanego wariantu ubezpieczenia. Badania wykonywane na podstawie skierowania lekarskiego.",
+      "codes": [
+        "8888.788.78",
+        "8989.089.00",
+        "8989.289.26"
+      ]
+    },
+    {
+      "text_chunk": "10.13. pomiar ciśnienia",
+      "codes": []
+    },
+    {
+      "text_chunk": "10.14. śródgałkowego,",
+      "codes": []
+    },
+    {
+      "text_chunk": "12.4. postępowanie zachowawcze w przypadku krwawienia z nosa (założenie gąbki spongostanowej założenie i usunięcie tamponady przedniej nosa koagulacja naczyń splotu Kisselbacha),",
+      "codes": [
+        "2121.021.01",
+        "2121.021.03",
+        "2121.021.09"
+      ]
+    },
+    {
+      "text_chunk": "14.  Badania biochemiczne z krwi (na podstawie skierowania lekarskiego): (lista badań laborator.)",
+      "codes": [
+        "0000.900.96"
+      ]
+    },
+    {
+      "text_chunk": "15.   Diagnostyka miażdżycy – badania z krwi (na podstawie skierowania lekarskiego): (cholesterol, lipidogram itd.)",
+      "codes": [
+        "0000.900.96"
+      ]
+    },
+    {
+      "text_chunk": "17.   Diagnostyka niedokrwistości (anemii) – badania z krwi (na podstawie skierowania lekarskiego): (żelazo, TIBC, transferryna)",
+      "codes": [
+        "0000.900.96"
+      ]
+    },
+    {
+      "text_chunk": "18.  Badania hematologiczne z krwi (na podstawie skierowania lekarskiego): (grupa krwi, APTT, morfologia, OB, rozmaz itd.)",
+      "codes": [
+        "0000.900.96"
+      ]
+    },
+    {
+      "text_chunk": "19.  Badania serologiczne z krwi (na podstawie skierowania lekarskiego): (WR, VDRL, HBsAg, ASO itd.)",
+      "codes": [
+        "0000.900.96"
+      ]
+    },
+    {
+      "text_chunk": "20.  Badania moczu (na podstawie skierowania lekarskiego): (badania ogólne, oznaczenia z dobowej zbiórki, klirensy itd.)",
+      "codes": [
+        "0000.900.96"
+      ]
+    },
+    {
+      "text_chunk": "21.  Badania kału (na podstawie skierowania lekarskiego): (badanie ogólne kału, jaja pasożytów, FOBT, testy w kierunku Shigella/Salmonella)",
+      "codes": [
+        "0000.900.96"
+      ]
+    },
+    {
+      "text_chunk": "23.  Badania  radiologiczne  z  opisem  – RTG  (na  podstawie  skierowania  lekarskiego).  Zakres  obejmuje pokrycie kosztu kontrastu używanego do badań oraz RTG: (rozległa lista projekcji RTG...)",
+      "codes": []
+    },
+    {
+      "text_chunk": "24.  USG - narząd rodny, narządy męskie,  ciąża (na podstawie skierowania lekarskiego) - łączna liczba badań –  limit min. 10 w każdych 12 miesiącach trwania zobowiązania wobec Ubezpieczonego, licząc od dnia objęcia ochroną danego Ubezpieczonego):",
+      "codes": []
+    },
+    {
+      "text_chunk": "24.1. narządu rodnego/miednicy mniejszej (ginekologiczne) – transvaginalne,",
+      "codes": []
+    },
+    {
+      "text_chunk": "24.2. ocena szyjki macicy – transvaginalne,",
+      "codes": []
+    },
+    {
+      "text_chunk": "24.3. narządu rodnego przez powłoki brzuszne,",
+      "codes": []
+    },
+    {
+      "text_chunk": "24.4. prostaty/gruczołu krokowego przez powłoki brzuszne,",
+      "codes": []
+    },
+    {
+      "text_chunk": "24.5. transrektalne (TRUS) – prostata, odbyt i odbytnica,",
+      "codes": []
+    },
+    {
+      "text_chunk": "24.6. płodu.",
+      "codes": []
+    },
+    {
+      "text_chunk": "26.  USG – narządu ruchu (stawy i mięśnie) (na podstawie skierowania lekarskiego): (bark, staw biodrowy, staw skokowy, łokciowy, kolanowy, stawy żuchwowe, doły podkolanowe)",
+      "codes": []
+    },
+    {
+      "text_chunk": "27.  USG – pozostałe (na podstawie skierowania lekarskiego):",
+      "codes": []
+    },
+    {
+      "text_chunk": "27.1. piersi,",
+      "codes": []
+    },
+    {
+      "text_chunk": "27.2. biopsja cienkoigłowa piersi pod kontrolą USG wraz z pobraniem materiału do badania cytologicznego (BAC) i jego oceną,",
+      "codes": [
+        "0000.900.96",
+        "8383.283.21"
+      ]
+    },
+    {
+      "text_chunk": "27.3. tarczycy,",
+      "codes": []
+    },
+    {
+      "text_chunk": "27.4. biopsja cienkoigłowa tarczycy pod kontrolą USG wraz z pobraniem materiału do badania cytologicznego i jego oceną,",
+      "codes": [
+        "0606.106.11",
+        "8383.283.21"
+      ]
+    },
+    {
+      "text_chunk": "27.5. jąder i najądrzy,",
+      "codes": []
+    },
+    {
+      "text_chunk": "27.6. powrózka nasiennego",
+      "codes": []
+    },
+    {
+      "text_chunk": "30.  Przegląd stanu zdrowia (bez skierowania lekarskiego): ubezpieczony ma możliwość korzystania z profilaktycznego przeglądu stanu zdrowia dwa razy w 12-miesięcznych okresach trwania zobowiązania wobec Ubezpieczonego, licząc od dnia objęcia ochroną danego Ubezpieczonego. Profilaktyczny przegląd stanu zdrowia obejmuje badania diagnostyczne:",
+      "codes": []
+    },
+    {
+      "text_chunk": "10.  Konsultacyjne zabiegi ambulatoryjne z zakresu okulistyki (na podstawie skierowania lekarskiego): (lista badań okulistycznych...)",
+      "codes": []
+    },
+    {
+      "text_chunk": "14.  Badania biochemiczne z krwi (na podstawie skierowania lekarskiego): (lista badań laboratoryjnych...)",
+      "codes": []
+    },
+    {
+      "text_chunk": "15.   Diagnostyka miażdżycy – badania z krwi (na podstawie skierowania lekarskiego): (lipidogram itp.)",
+      "codes": []
+    },
+    {
+      "text_chunk": "18.  Badania hematologiczne z krwi (na podstawie skierowania lekarskiego): (szczegółowa lista badań morfologii, czasu krzepnięcia itp.)",
+      "codes": []
+    },
+    {
+      "text_chunk": "19.  Badania serologiczne z krwi (na podstawie skierowania lekarskiego): (liste testów serologicznych)",
+      "codes": []
+    },
+    {
+      "text_chunk": "20.  Badania moczu (na podstawie skierowania lekarskiego): (lista badań moczu)",
+      "codes": []
+    },
+    {
+      "text_chunk": "21.  Badania kału (na podstawie skierowania lekarskiego): (lista badań kału)",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.  Badania  radiologiczne  z  opisem  – RTG  (na  podstawie  skierowania  lekarskiego).  Zakres  obejmuje pokrycie kosztu kontrastu używanego do badań oraz RTG: (obszerny wykaz projekcji RTG)",
+      "codes": []
+    },
+    {
+      "text_chunk": "24.  USG - narząd rodny, narządy męskie,  ciąża (na podstawie skierowania lekarskiego) - łączna liczba badań –  limit min. 10 w każdych 12 miesiącach trwania zobowiązania wobec Ubezpieczonego, licząc od dnia objęcia ochroną danego Ubezpieczonego): (lista badań USG: narządu rodnego transvaginalne, prostata, TRUS, płodu itp.)",
+      "codes": []
+    },
+    {
+      "text_chunk": "26.  USG – narządu ruchu (stawy i mięśnie) (na podstawie skierowania lekarskiego): (lista stawów i miejsc)",
+      "codes": []
+    },
+    {
+      "text_chunk": "30.  Przegląd stanu zdrowia (bez skierowania lekarskiego): ubezpieczony ma możliwość korzystania z profilaktycznego  przeglądu  stanu  zdrowia  dwa  razy  w  12-miesięcznych okresach trwania zobowiązania wobec Ubezpieczonego, licząc od dnia objęcia ochroną danego Ubezpieczonego. Profilaktyczny przegląd stanu zdrowia obejmuje badania diagnostyczne: (lista badań: ALAT, AspAT, morfologia z rozmazem, OB, glukoza, ogólne moczu, cholesterol)",
+      "codes": []
+    },
+    {
+      "text_chunk": "14.1. amylaza/diastaza (AMY),",
+      "codes": []
+    },
+    {
+      "text_chunk": "14.2. azot mocznikowy (BUN),",
+      "codes": []
+    },
+    {
+      "text_chunk": "14.3. białko całkowite (BCA),",
+      "codes": []
+    },
+    {
+      "text_chunk": "14.4. białko całkowite – rozdział elektro-foretyczny (proteinogram),",
+      "codes": []
+    },
+    {
+      "text_chunk": "14.5. bilirubina całkowita (BILC/BIL total),",
+      "codes": []
+    },
+    {
+      "text_chunk": "14.6. bilirubina bezpośrednia/sprzężona/związana (BILB/BIL direct),",
+      "codes": []
+    },
+    {
+      "text_chunk": "14.7. bilirubina pośrednia/wolna,",
+      "codes": []
+    },
+    {
+      "text_chunk": "14.8. chlorki,",
+      "codes": []
+    },
+    {
+      "text_chunk": "14.9. czynnik reumatoidalny ilościowy,",
+      "codes": []
+    },
+    {
+      "text_chunk": "14.10. czynnik reumatoidalny (RF) lateksowy/jakościowy,",
+      "codes": []
+    },
+    {
+      "text_chunk": "14.11. dehydrogenaza mleczanowa (LDH/LD),",
+      "codes": []
+    },
+    {
+      "text_chunk": "14.12. fosfataza: alkaliczna/zasadowa (ALP/ALK), kwaśna całkowita (ACP), kwaśna sterczowa (PAP),",
+      "codes": []
+    },
+    {
+      "text_chunk": "14.13. fosfor (P)/fosforan nieorganiczny,",
+      "codes": []
+    },
+    {
+      "text_chunk": "14.14. USR,",
+      "codes": []
+    },
+    {
+      "text_chunk": "14.16. albumina (ALB),",
+      "codes": []
+    },
+    {
+      "text_chunk": "14.17. aminotransferaza alaninowa (AlAT/ALT/GPT),",
+      "codes": []
+    },
+    {
+      "text_chunk": "14.18. aminotransferaza asparaginowa (AspAT/AST/GOT),",
+      "codes": []
+    },
+    {
+      "text_chunk": "14.19. białko C-reaktywne (CRP/hs-CRP) – ilościowo,",
+      "codes": []
+    },
+    {
+      "text_chunk": "14.20. białko C-reaktywne (CRP/hs-CRP) – jakościowo,",
+      "codes": []
+    },
+    {
+      "text_chunk": "14.22. glutamylotranferaza (GGTP/GGT),",
+      "codes": []
+    },
+    {
+      "text_chunk": "14.24. glukoza badanie glukometrem,",
+      "codes": []
+    },
+    {
+      "text_chunk": "14.26. chlorki,",
+      "codes": []
+    },
+    {
+      "text_chunk": "14.27. kreatynina/klirens kreatyniny (GFR),",
+      "codes": []
+    },
+    {
+      "text_chunk": "14.28. mocznik,",
+      "codes": []
+    },
+    {
+      "text_chunk": "14.29. próby wątrobowe (ALAT/ALT/GPT, AspAT/AST/GOT),",
+      "codes": []
+    },
+    {
+      "text_chunk": "14.30. kinaza fosfokreaty-nowa/kreatynowa (CK/CPK),",
+      "codes": []
+    },
+    {
+      "text_chunk": "14.31. kinaza fosfokreatynowa izoenzym (CKMB) – mass,",
+      "codes": []
+    },
+    {
+      "text_chunk": "14.32. kinaza fosfokreatynowa izoenzym (CKMB) – aktywność,",
+      "codes": []
+    },
+    {
+      "text_chunk": "14.33. kwas moczowy,",
+      "codes": []
+    },
+    {
+      "text_chunk": "14.34. magnez (Mg),",
+      "codes": []
+    },
+    {
+      "text_chunk": "16.  Diagnostyka cukrzycy – badania z krwi (na podstawie skierowania lekarskiego):",
+      "codes": []
+    },
+    {
+      "text_chunk": "16.1. glukoza/cukier na czczo",
+      "codes": []
+    },
+    {
+      "text_chunk": "20.7. białko Bence-Jonesa metodą,",
+      "codes": []
+    },
+    {
+      "text_chunk": "20.8. immunofiksacji,",
+      "codes": []
+    },
+    {
+      "text_chunk": "22.  Badania histopatologiczne:",
+      "codes": [
+        "8383.283.21"
+      ]
+    },
+    {
+      "text_chunk": "22.1. pobranie i ocena preparatu histopatologicznego z fragmentów tkankowych pobranych podczas badań i zabiegów ambulatoryjnych przysługujących Ubezpieczonemu w ramach wariantu ubezpieczenia)",
+      "codes": [
+        "8383.283.21"
+      ]
+    },
+    {
+      "text_chunk": "23.  Badania  radiologiczne  z  opisem  – RTG  (na  podstawie  skierowania  lekarskiego).  Zakres  obejmuje pokrycie kosztu kontrastu używanego do badań oraz RTG:",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.1. klatki piersiowej AP,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.2. klatki piersiowej AP i bok,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.3. klatki piersiowej bok, mostka, żeber, żeber skos,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.4. czaszki (1 projekcja),",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.5. czaszki AP + bok,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.6. czaszki celowane na siodełko tureckie,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.7. czaszki – kanały nerwów czaszkowych,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.8. czaszki półosiowe wg Orleya/potylicy wg Towna,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.9. czaszki – podstawy,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.10. celowany na szyjkę kości udowej,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.11. dłoni/ręki(rąk) AP + bok,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.12. dłoni/ręki (rąk) porównawcze,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.13. górnego odcinka przewodu pokarmowego (badanie przełyku, żołądka i dwunastnicy),",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.14. jamy brzusznej – przeglądowe,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.15. kości jarzmowych,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.16. kości krzyżowo- ogonowej AP,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.17. kości krzyżowo-ogonowej AP + bok,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.18. kości krzyżowo-ogonowej bok,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.19. kości nosa,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.20. kości piętowej,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.21. kości piętowej osiowe + bok,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.22. kości piętowej osiowe,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.23. kości piętowej bok,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.24. kości piętowych,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.25. kości podudzia AP,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.26. kości podudzia bok,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.27. kości podudzia AP + bok,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.28. kości obu podudzi (porównawcze),",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.29. kości ramiennej AP,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.30. kości ramiennej bok,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.31. kości ramiennej AP + bok,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.32. kości skroniowej,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.33. kości udowej AP,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.34. kości udowej bok,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.35. kości udowej AP + bok,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.36. kręgosłupa – całego,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.37. kręgosłupa lędźwiowego AP,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.38. kręgosłupa lędźwiowego AP + bok,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.39. kręgosłupa lędźwiowego bok/skos,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.40. kręgosłupa lędźwiowego czynnościowe,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.41. kręgosłupa lędźwiowego-krzyżowego,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.42. kręgosłupa lędźwiowo-krzyżowego czynnościowe,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.43. kręgosłupa piersiowego AP,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.44. kręgosłupa piersiowego bok, kręgosłupa piersiowego AP + bok,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.45. kręgosłupa piersiowego czynnościowe,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.46. kręgosłupa piersiowo-lędźwiowego AP,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.47. kręgosłupa piersiowo-lędźwiowego AP + bok,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.48. kręgosłupa piersiowo-lędźwiowego bok,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.49. kręgosłupa (skolioza),",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.50. kręgosłupa szyjnego AP + bok,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.51. kręgosłupa szyjnego czynnościowe,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.52. kręgosłupa szyjnego – bok,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.53. kręgosłupa szyjnego skosy,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.54. kręgosłupa szyjnego celowane na ząb obrotnika,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.55. krtani,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.56. łopatki AP,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.57. łopatki AP,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.58. łopatki osiowe,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.59. łopatki AP + osiowe,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.60. łopatek (porównawcze),",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.61. nadgarstka celowane na kość łódeczkową,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.62. nadgarstka AP,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.63. nadgarstka AP + bok/skos,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.64. nadgarstka bok/skos,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.65. nadgarstków,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.66. nosogardzieli, obojczyka,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.67. obojczyka porównawcze,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.68. obu rzepek,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.69. osiowe rzepki,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.70. ocena wczesnych zmian reumatoidalnych rąk,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.71. oczodołów PA,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.72. oczodołów PA + bok,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.73. okolicy tarczycy i szyi,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.74. palca (palców) ręki,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.75. palca (palców) stopy,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.76. przełyku,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.77. przedramienia AP,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.78. przedramienia bok,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.79. przedramienia AP + bok,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.80. stawu barkowego AP, stawu barkowego AP + osiowe,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.81. stawu barkowego osiowe,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.82. stawów barkowych,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.83. stawu biodrowego AP,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.84. stawu biodrowego AP +  osiowe,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.85. stawu biodrowego osiowe,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.86. stawów biodrowych,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.87. stawu kolanowego AP,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.88. stawu kolanowego bok,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.89. stawu kolanowego AP + bok,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.90. stawu kolanowego tunelowe,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.91. stawów kolanowych,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.92. stawów krzyżowo-biodrowych,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.93. stawu łokciowego AP,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.94. stawu łokciowego AP+ bok,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.95. stawu łokciowego bok,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.96. stawów łokciowych,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.97. stawu mostkowo-obojczykowego,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.98. stawów mostkowo-obojczykowych,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.99. stawu skokowego AP,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.100. stawu skokowego bok,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.101. stawu skokowego AP + bok,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.102. stawów skokowych (porównawcze),",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.103. stawów skroniowo-żuchwowych,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.104. stawów skroniowo-żuchwowych czynnościowe,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.105. miednicy,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.106. stopy AP,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.107. stopy bok,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.108. stopy AP + bok,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.109. stopy w obciążeniu,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.110. obu stóp,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.111. obu stóp w obciążeniu,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.112. ucha,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.113. tchawicy,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.114. twarzoczaszki,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.115. zatok,",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.116. żuchwy (1 projekcja),",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.117. żuchwy PA + skos.",
+      "codes": []
+    },
+    {
+      "text_chunk": "25.  USG – jama brzuszna, układ moczowy (na podstawie skierowania lekarskiego):",
+      "codes": []
+    },
+    {
+      "text_chunk": "25.1. jamy brzusznej,",
+      "codes": []
+    },
+    {
+      "text_chunk": "25.2. układu moczowego (ocena pęcherza moczowego i nerek).",
+      "codes": []
+    },
+    {
+      "text_chunk": "26.  USG – narządu ruchu (stawy i mięśnie) (na podstawie skierowania lekarskiego):",
+      "codes": []
+    },
+    {
+      "text_chunk": "26.1. barku,",
+      "codes": []
+    },
+    {
+      "text_chunk": "26.2. stawu biodrowego,",
+      "codes": []
+    },
+    {
+      "text_chunk": "26.3. stawu skokowego,",
+      "codes": []
+    },
+    {
+      "text_chunk": "26.4. stawu barkowego,",
+      "codes": []
+    },
+    {
+      "text_chunk": "26.5. stawu łokciowego,",
+      "codes": []
+    },
+    {
+      "text_chunk": "26.6. stawu kolanowego,",
+      "codes": []
+    },
+    {
+      "text_chunk": "26.7. stawów żuchwowych,",
+      "codes": []
+    },
+    {
+      "text_chunk": "26.8. dołów podkolanowych",
+      "codes": []
+    },
+    {
+      "text_chunk": "28.  Badania czynnościowe układu krążenia (na podstawie skierowania lekarskiego):",
+      "codes": []
+    },
+    {
+      "text_chunk": "28.1. EKG spoczynkowe",
+      "codes": []
+    },
+    {
+      "text_chunk": "29.  Szczepienia wraz z konsultacją lekarską przed szczepieniem obejmuje iniekcję, koszt szczepionki oraz konsultację kwalifikacyjną przed szczepieniem:",
+      "codes": []
+    },
+    {
+      "text_chunk": "29.1. p. grypie sezonowej – 1 dawka w każdych 12 miesiącach trwania zobowiązania wobec Ubezpieczonego, licząc od dnia objęcia ochroną danego Ubezpieczonego",
+      "codes": []
+    },
+    {
+      "text_chunk": "30.4. odczyn opadania krwinek czer-wonych (OB),",
+      "codes": []
+    },
+    {
+      "text_chunk": "8. Konsultacyjne zabiegi ambulatoryjne z zakresu dermatologii – na podstawie skierowania lekarskiego: 8.1.  zeskrobiny zarażonej grzybem płytki paznokcia.",
+      "codes": []
+    },
+    {
+      "text_chunk": "9. Konsultacyjne zabiegi ambulatoryjne z zakresu ginekologii (na podstawie skierowania lekarskiego): 9.1.  pobranie i wykonanie standardowego wymazu cytologicznego, cytohormonalnego.",
+      "codes": [
+        "6767.167.13",
+        "6767.167.14",
+        "6767.167.15"
+      ]
+    },
+    {
+      "text_chunk": "10.  Konsultacyjne zabiegi ambulatoryjne z zakresu okulistyki (na podstawie skierowania lekarskiego): (lista badań okulistycznych wymienionych w punktach 10.1–10.17)",
+      "codes": []
+    },
+    {
+      "text_chunk": "12.  Konsultacyjne zabiegi ambulatoryjne z zakresu laryngologii (na podstawie skierowania lekarskiego): (lista zabiegów laryngologicznych 12.1–12.6)",
+      "codes": []
+    },
+    {
+      "text_chunk": "13.  Ambulatoryjna opieka pielęgniarska (na podstawie skierowania lekarskiego): (13.1–13.4: iniekcje, pomiar ciśnienia, zmiana opatrunku, lewatywa)",
+      "codes": []
+    },
+    {
+      "text_chunk": "14.  Badania biochemiczne z krwi (na podstawie skierowania lekarskiego): (lista badań biochemicznych 14.1–14.36)",
+      "codes": []
+    },
+    {
+      "text_chunk": "15.   Diagnostyka miażdżycy – badania z krwi (na podstawie skierowania lekarskiego): (15.1–15.6)",
+      "codes": []
+    },
+    {
+      "text_chunk": "17.   Diagnostyka niedokrwistości (anemii) – badania z krwi (na podstawie skierowania lekarskiego): (17.1–17.3)",
+      "codes": []
+    },
+    {
+      "text_chunk": "18.  Badania hematologiczne z krwi (na podstawie skierowania lekarskiego): (18.1–18.16 morfologia, koagulogram itp.)",
+      "codes": []
+    },
+    {
+      "text_chunk": "19.  Badania serologiczne z krwi (na podstawie skierowania lekarskiego): (19.1–19.7)",
+      "codes": []
+    },
+    {
+      "text_chunk": "20.  Badania moczu (na podstawie skierowania lekarskiego): (20.1–20.34 lista badań moczu i zbiórek dobowych)",
+      "codes": []
+    },
+    {
+      "text_chunk": "21.  Badania kału (na podstawie skierowania lekarskiego): (21.1–21.5)",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.  Badania  radiologiczne  z  opisem  – RTG  (na  podstawie  skierowania  lekarskiego).  Zakres  obejmuje pokrycie kosztu kontrastu używanego do badań oraz RTG: (lista projekcji RTG 23.1–23.117)",
+      "codes": []
+    },
+    {
+      "text_chunk": "24.  USG - narząd rodny, narządy męskie,  ciąża (na podstawie skierowania lekarskiego) - łączna liczba badań –  limit min. 10 w każdych 12 miesiącach trwania zobowiązania wobec Ubezpieczonego, licząc od dnia objęcia ochroną danego Ubezpieczonego): (24.1–24.6)",
+      "codes": []
+    },
+    {
+      "text_chunk": "26.  USG – narządu ruchu (stawy i mięśnie) (na podstawie skierowania lekarskiego): (26.1–26.8)",
+      "codes": []
+    },
+    {
+      "text_chunk": "27.  USG – pozostałe (na podstawie skierowania lekarskiego): (27.1–27.6 piersi, biopsje cienkoigłowe pod kontrolą USG, tarczyca itd.)",
+      "codes": []
+    },
+    {
+      "text_chunk": "30.  Przegląd stanu zdrowia (bez skierowania lekarskiego): ubezpieczony ma możliwość korzystania z profilaktycznego  przeglądu  stanu  zdrowia  dwa  razy  w  12-miesięcznych okresach trwania zobowiązania wobec Ubezpieczonego, licząc od dnia objęcia ochroną danego Ubezpieczonego. Profilaktyczny przegląd stanu zdrowia obejmuje badania diagnostyczne: (30.1–30.7)",
+      "codes": []
+    },
+    {
+      "text_chunk": "4. Nielimitowany  dostęp  do  konsultacji  medycznych  świadczonych  przez  następujących specjalistów: 4.1.  lekarz podstawowej opieki medycznej/lekarz rodzinny 4.2.  internista 4.3.  pediatra 4.4.  chirurg ogólny 4.5.  dermatolog 4.6.  dermatolog wenerolog 4.7.  ginekolog/ginekolog-położnik 4.8.  otolaryngolog 4.9.  neurolog 4.10. neurochirurg 4.11. okulista 4.12. pulmonolog 4.13. reumatolog 4.14. urolog 4.15. chirurg dziecięcy 4.16. urolog dziecięcy 4.17. otolaryngolog dziecięcy 4.18. neurolog dziecięcy",
+      "codes": []
+    },
+    {
+      "text_chunk": "7. Konsultacyjne zabiegi ambulatoryjne z zakresu chirurgii – na podstawie skierowania lekarskiego: 7.1.  wycięcie klinowe wrastającego paznokcia,  7.2.  leczenie zanokcicy z wycięciem klinowym paznokcia lub usunięciem płytki paznokciowej, 7.3.  nacinanie i drenaż ropnia: skóry, krwiaka, czyraka,  7.4.  opatrzenie drobnych urazów: rany, skręcenia, zwichnięcia, opatrzenie drobnych oparzeń i odmrożeń, proste zamknięcie powierzchownych ran,  7.5.  usunięcie: ciała obcego, kleszcza, założenie prostego opatrunku chirurgicznego, zdejmowanie szwów, zmiana prostego opatrunku i toaleta rany.",
+      "codes": []
+    },
+    {
+      "text_chunk": "10.  Konsultacyjne zabiegi ambulatoryjne z zakresu okulistyki (na podstawie skierowania lekarskiego): 10.1. badanie pola widzenia (perymetria),  10.2. gonioskopia (ocena kąta przesączania),  10.3. płukanie dróg łzowych,  10.4. badanie dna oka,  10.5. badanie forii,  10.6. badanie lampą szczelinową,  10.7. badanie ostrości widzenia,  10.8. biometria,  10.9. dobór szkieł okularowych,  10.10. egzoftalmometria (badanie wytrzeszczu),  10.11. opatrunek oczny z lekiem,  10.12. pachymetria,  10.13. pomiar ciśnienia  10.14. śródgałkowego,  10.15. refraktometria (komputerowe badanie wzroku),  10.16. skiaskopia/retinoskopia (badanie refrakcji oka),  10.17. usunięcie ciała obcego z oka/powieki.",
+      "codes": []
+    },
+    {
+      "text_chunk": "12.  Konsultacyjne zabiegi ambulatoryjne z zakresu laryngologii (na podstawie skierowania lekarskiego): 12.1. opatrunek uszny z lekiem, 12.2. pędzlowanie: gardła, jamy ustnej, 12.3. płukanie uszu, 12.4. postępowanie zachowawcze w  przypadku  krwawienia  z  nosa  (założenie  gąbki spongostanowej założenie i usunięcie tamponady przedniej nosa koagulacja naczyń splotu Kisselbacha), 12.5. przedmuchiwanie trąbek słuchowych, 12.6. usuwanie ciała obcego z: ucha, nosa, gardła.",
+      "codes": []
+    },
+    {
+      "text_chunk": "13.  Ambulatoryjna opieka pielęgniarska (na podstawie skierowania lekarskiego): 13.1. iniekcje: dożylne, domięśniowe, podskórne, śródskórne (Ubezpieczony ponosi koszty podawanych leków), 13.2. pomiar  ciśnienia  tętniczego,  próba  uczuleniowa  na  lek,  podłączenie  wlewu dożylnego/kroplowego (Ubezpieczony ponosi koszty podawanych leków, płynów), 13.3. zmiana prostego opatrunku i toaleta rany, 13.4. lewatywa",
+      "codes": []
+    },
+    {
+      "text_chunk": "14.  Badania biochemiczne z krwi (na podstawie skierowania lekarskiego): (wiele wyszczególnionych badań laboratoryjnych)",
+      "codes": []
+    },
+    {
+      "text_chunk": "15.   Diagnostyka miażdżycy – badania z krwi (na podstawie skierowania lekarskiego): (cholesterol, lipidogram, triglicerydy itp.)",
+      "codes": []
+    },
+    {
+      "text_chunk": "17.   Diagnostyka niedokrwistości (anemii) – badania z krwi (na podstawie skierowania lekarskiego): 17.1. żelazo (Fe) 17.2. żelazo – całkowita zdolność wiązania (TIBC) 17.3. transferryna",
+      "codes": []
+    },
+    {
+      "text_chunk": "18.  Badania hematologiczne z krwi (na podstawie skierowania lekarskiego): (grupa krwi, APTT, morfologia, OB, rozmaz, retikulocyty itp.)",
+      "codes": []
+    },
+    {
+      "text_chunk": "19.  Badania serologiczne z krwi (na podstawie skierowania lekarskiego): (Waaler-Rosego, Wassermanna, USR, VDRL, HBsAg, ASO itp.)",
+      "codes": []
+    },
+    {
+      "text_chunk": "20.  Badania moczu (na podstawie skierowania lekarskiego): (szczegółowy wykaz badań moczu i badań z dobowej zbiórki moczu)",
+      "codes": []
+    },
+    {
+      "text_chunk": "21.  Badania kału (na podstawie skierowania lekarskiego): (badanie ogólne kału cysty lamblii (ELISA), jaja pasożytów, kał na krew utajoną (FOBT), badania w kierunku Shigella Salmonella itp.)",
+      "codes": []
+    },
+    {
+      "text_chunk": "23.  Badania  radiologiczne  z  opisem  – RTG  (na  podstawie  skierowania  lekarskiego).  Zakres  obejmuje pokrycie kosztu kontrastu używanego do badań oraz RTG: (rozbudowana lista projekcji RTG)",
+      "codes": []
+    },
+    {
+      "text_chunk": "24.  USG - narząd rodny, narządy męskie,  ciąża (na podstawie skierowania lekarskiego) - łączna liczba badań –  limit min. 10 w każdych 12 miesiącach trwania zobowiązania wobec Ubezpieczonego, licząc od dnia objęcia ochroną danego Ubezpieczonego): 24.1. narządu rodnego/miednicy mniejszej (ginekologiczne) – transvaginalne,  24.2. ocena szyjki macicy – transvaginalne, 24.3. narządu rodnego przez powłoki brzuszne,  24.4. prostaty/gruczołu krokowego przez powłoki brzuszne,  24.5. transrektalne (TRUS) – prostata, odbyt i odbytnica,  24.6. płodu.",
+      "codes": []
+    },
+    {
+      "text_chunk": "26.  USG – narządu ruchu (stawy i mięśnie) (na podstawie skierowania lekarskiego): 26.1. barku, 26.2. stawu biodrowego, 26.3. stawu skokowego, 26.4. stawu barkowego, 26.5. stawu łokciowego, 26.6. stawu kolanowego, 26.7. stawów żuchwowych, 26.8. dołów podkolanowych",
+      "codes": []
+    },
+    {
+      "text_chunk": "30.  Przegląd stanu zdrowia (bez skierowania lekarskiego): ubezpieczony ma możliwość korzystania z profilaktycznego  przeglądu  stanu  zdrowia  dwa  razy  w  12-miesięcznych okresach trwania zobowiązania wobec Ubezpieczonego, licząc od dnia objęcia ochroną danego Ubezpieczonego. Profilaktyczny przegląd stanu zdrowia obejmuje badania diagnostyczne: 30.1. aminotransferaza alaninowa (ALAT/ALT/GPT), 30.2. aminotransferaza asparaginowa (AspAT/AST/GOT), 30.3. morfologia krwi z rozmazem (z analizatora/rozmaz automatyczny), 30.4. odczyn opadania krwinek czer-wonych (OB), 30.5. glukoza/cukier na czczo, 30.6. badanie ogólne moczu, 30.7. cholesterol całkowity (CHOL).",
+      "codes": []
+    },
+    {
+      "text_chunk": "Załącznik nr 2 A do OPZ zad. 1 - Minimalny wymagany zakres świadczeń w opiece medycznej – \nWARIANT 1",
+      "codes": []
+    },
+    {
+      "text_chunk": "24.  USG - narząd rodny, narządy męskie,  ciąża (na podstawie skierowania lekarskiego) - łączna liczba badań – limit min. 10 w każdych 12 miesiącach trwania zobowiązania wobec Ubezpieczonego, licząc od dnia objęcia ochroną danego Ubezpieczonego):",
+      "codes": []
+    },
+    {
+      "text_chunk": "2. Rezerwacja wizyt:\n2.1.  za pośrednictwem infolinii dostępnej całą dobę,\n2.2.  przez Internet (wykonawca udostępni odpowiednią stronę internetową/formularz),",
+      "codes": []
+    },
+    {
+      "text_chunk": "4. Nielimitowany  dostęp  do  konsultacji  medycznych  świadczonych  przez  następujących specjalistów: (4.1. lekarz podstawowej opieki medycznej/lekarz rodzinny; 4.2. internista; 4.3. pediatra; 4.4. chirurg ogólny; 4.5. dermatolog; 4.6. dermatolog wenerolog; 4.7. ginekolog/ginekolog-położnik; 4.8. otolaryngolog; 4.9. neurolog; 4.10. neurochirurg; 4.11. okulista; 4.12. pulmonolog; 4.13. reumatolog; 4.14. urolog; 4.15. chirurg dziecięcy; 4.16. urolog dziecięcy; 4.17. otolaryngolog dziecięcy; 4.18. neurolog dziecięcy)",
+      "codes": [
+        "8989.089.00"
+      ]
+    },
+    {
+      "text_chunk": "7. Konsultacyjne zabiegi ambulatoryjne z zakresu chirurgii – na podstawie skierowania lekarskiego: 7.1. wycięcie klinowe wrastającego paznokcia, 7.2. leczenie zanokcicy z wycięciem klinowym paznokcia lub usunięciem płytki paznokciowej, 7.3. nacinanie i drenaż ropnia: skóry, krwiaka, czyraka, 7.4. opatrzenie drobnych urazów: rany, skręcenia, zwichnięcia, opatrzenie drobnych oparzeń i odmrożeń, proste zamknięcie powierzchownych ran, 7.5. usunięcie: ciała obcego, kleszcza, założenie prostego opatrunku chirurgicznego, zdejmowanie szwów, zmiana prostego opatrunku i toaleta rany.",
+      "codes": [
+        "8686.086.04",
+        "8686.086.05",
+        "8686.286.22",
+        "8686.286.23",
+        "8686.286.27",
+        "8686.586.52"
+      ]
+    },
+    {
+      "text_chunk": "10. Konsultacyjne zabiegi ambulatoryjne z zakresu okulistyki (na podstawie skierowania lekarskiego): 10.1. badanie pola widzenia (perymetria), 10.2. gonioskopia (ocena kąta przesączania), 10.3. płukanie dróg łzowych, 10.4. badanie dna oka, 10.5. badanie forii, 10.6. badanie lampą szczelinową, 10.7. badanie ostrości widzenia, 10.8. biometria, 10.9. dobór szkieł okularowych, 10.10. egzoftalmometria (badanie wytrzeszczu), 10.11. opatrunek oczny z lekiem, 10.12. pachymetria, 10.13. pomiar ciśnienia 10.14. śródgałkowego, 10.15. refraktometria (komputerowe badanie wzroku), 10.16. skiaskopia/retinoskopia (badanie refrakcji oka), 10.17. usunięcie ciała obcego z oka/powieki.",
+      "codes": [
+        "8787.087.05",
+        "8989.089.00",
+        "8989.089.04",
+        "8989.189.11"
+      ]
+    },
+    {
+      "text_chunk": "11. Konsultacyjne zabiegi ambulatoryjne z zakresu urologii (na podstawie skierowania lekarskiego): 11.1. cewnikowanie pęcherza moczowego, 11.2. płukanie pęcherza moczowego, 11.3. wymiana cewnika (Ubezpieczony pokrywa koszty cewnika).",
+      "codes": [
+        "8989.089.00",
+        "8989.089.04"
+      ]
+    },
+    {
+      "text_chunk": "12. Konsultacyjne zabiegi ambulatoryjne z zakresu laryngologii (na podstawie skierowania lekarskiego): 12.1. opatrunek uszny z lekiem, 12.2. pędzlowanie: gardła, jamy ustnej, 12.3. płukanie uszu, 12.4. postępowanie zachowawcze w przypadku krwawienia z nosa (założenie gąbki spongostanowej założenie i usunięcie tamponady przedniej nosa koagulacja naczyń splotu Kisselbacha), 12.5. przedmuchiwanie trąbek słuchowych, 12.6. usuwanie ciała obcego z: ucha, nosa, gardła.",
+      "codes": [
+        "8989.089.00",
+        "8989.089.04",
+        "9090.390.32"
+      ]
+    },
+    {
+      "text_chunk": "13. Ambulatoryjna opieka pielęgniarska (na podstawie skierowania lekarskiego): 13.1. iniekcje: dożylne, domięśniowe, podskórne, śródskórne (Ubezpieczony ponosi koszty podawanych leków), 13.2. pomiar  ciśnienia  tętniczego,  próba  uczuleniowa  na  lek,  podłączenie  wlewu dożylnego/kroplowego (Ubezpieczony ponosi koszty podawanych leków, płynów), 13.3. zmiana prostego opatrunku i toaleta rany, 13.4. lewatywa",
+      "codes": [
+        "8989.089.04"
+      ]
+    },
+    {
+      "text_chunk": "14. Badania biochemiczne z krwi (na podstawie skierowania lekarskiego): (lista wielu parametrów: amylaza, BUN, BCA, proteinogram, bilirubiny, chlorki, RF, LDH, ALP, ACP, PAP, fosfor, USR, VDRL, albumina, AlAT/ALT, AspAT/AST, CRP ilościowo/ jakościowo, GGTP, glukoza, Na/K, kreatynina/klirens, mocznik, próby wątrobowe, CK/CPK, CKMB, kwas moczowy, magnez, wapń itd.)",
+      "codes": []
+    },
+    {
+      "text_chunk": "15. Diagnostyka miażdżycy – badania z krwi (na podstawie skierowania lekarskiego): 15.1. cholesterol – badanie paskowe, 15.2. cholesterol całkowity (CHOL), 15.3. cholesterol HDL, 15.4. cholesterol LDL, 15.5. lipidogram (TC, HDL, LDL, TRG/TG), 15.6. triglicerydy (TRIG/TG).",
+      "codes": []
+    },
+    {
+      "text_chunk": "16. Diagnostyka cukrzycy – badania z krwi (na podstawie skierowania lekarskiego): 16.1. glukoza/cukier na czczo",
+      "codes": []
+    },
+    {
+      "text_chunk": "17. Diagnostyka niedokrwistości (anemii) – badania z krwi (na podstawie skierowania lekarskiego): 17.1. żelazo (Fe), 17.2. żelazo – całkowita zdolność wiązania (TIBC), 17.3. transferryna",
+      "codes": []
+    },
+    {
+      "text_chunk": "18. Badania hematologiczne z krwi (na podstawie skierowania lekarskiego): (grupa krwi; APTT; czas krwawienia; czas krzepnięcia; TT; PT/INR; fibrynogen; koagulogram; morfologia krwi obwodowej kompletna; morfologia z automatycznym zliczaniem odsetek; morfologia z rozmazem; płytki; OB; rozmaz; retikulocyty).",
+      "codes": []
+    },
+    {
+      "text_chunk": "19. Badania serologiczne z krwi (na podstawie skierowania lekarskiego): (odczyn Waaler-Rosego, odczyn Wassermanna (WR), USR, VDRL, antygen HBs, test potwierdzenia HBs, ASO).",
+      "codes": []
+    },
+    {
+      "text_chunk": "20. Badania moczu (na podstawie skierowania lekarskiego): (lista badań: amylaza w moczu, badanie ogólne moczu, badanie paskowe, białko ilościowe, badania z dobowej zbiórki moczu, klirens kreatyniny z dobowej zbiórki moczu, itd.).",
+      "codes": [
+        "9191.391.31",
+        "9191.391.32"
+      ]
+    },
+    {
+      "text_chunk": "21. Badania kału (na podstawie skierowania lekarskiego): 21.1. badanie ogólne kału cysty lamblii (ELISA), 21.2. jaja pasożytów, 21.3. kał na krew utajoną (FOBT), 21.4. pojedyncze badanie w kierunku Shigella Salmonella, 21.5. 3 krotne badanie kału w kierunku Shigella Salmonella.",
+      "codes": [
+        "9090.990.92",
+        "9090.990.94"
+      ]
+    },
+    {
+      "text_chunk": "22. Badania histopatologiczne: 22.1. pobranie i ocena preparatu histopatologicznego z fragmentów tkankowych pobranych podczas badań i zabiegów ambulatoryjnych przysługujących Ubezpieczonemu w ramach wariantu ubezpieczenia)",
+      "codes": []
+    },
+    {
+      "text_chunk": "23. Badania  radiologiczne  z  opisem  – RTG (na  podstawie  skierowania  lekarskiego).  Zakres  obejmuje pokrycie kosztu kontrastu używanego do badań oraz RTG: (szczegółowa lista projekcji: klatki piersiowej AP, AP i bok, bok; żeber/mostka; czaszki; kanały nerwów czaszkowych; siodełko tureckie; dłoni/ręki; górnego odcinka przewodu pokarmowego; jamy brzusznej przeglądowe; kości: jarzmowych, krzyżowo-ogonowej, nosa, piętowej, podudzia, ramiennej, skroniowej, udowej; kręgosłupa – całego, lędźwiowego AP, AP + bok, czynnościowe, piersiowego, szyjnego AP + bok; krtani; łopatki; nadgarstka; nosogardzieli; obojczyka; rzepek; oczodołów; tarczycy; palca ręki i stopy; przedramienia; stawu barkowego; biodrowego; kolanowego; stawów skroniowo-żuchwowych; miednicy; stopy; ucha; tchawicy; twarzoczaszki; zatok; żuchwy itd.).",
+      "codes": [
+        "8787.187.11",
+        "8787.187.16",
+        "8787.287.22",
+        "8787.287.23",
+        "8787.287.24",
+        "8787.487.43",
+        "8787.487.44",
+        "8888.188.11",
+        "8888.288.21",
+        "8888.288.22",
+        "8888.288.23",
+        "8888.288.27",
+        "8888.288.28",
+        "8888.288.29"
+      ]
+    },
+    {
+      "text_chunk": "24. USG - narząd rodny, narządy męskie, ciąża (na podstawie skierowania lekarskiego) - łączna liczba badań – limit min. 10 w każdych 12 miesiącach trwania zobowiązania wobec Ubezpieczonego, licząc od dnia objęcia ochroną danego Ubezpieczonego): 24.1. narządu rodnego/miednicy mniejszej (ginekologiczne) – transvaginalne, 24.2. ocena szyjki macicy – transvaginalne, 24.3. narządu rodnego przez powłoki brzuszne, 24.4. prostaty/gruczołu krokowego przez powłoki brzuszne, 24.5. transrektalne (TRUS) – prostata, odbyt i odbytnica, 24.6. płodu.",
+      "codes": [
+        "8888.788.75",
+        "8888.788.76",
+        "8888.788.78",
+        "8888.788.79"
+      ]
+    },
+    {
+      "text_chunk": "25. USG – jama brzuszna, układ moczowy (na podstawie skierowania lekarskiego): 25.1. jamy brzusznej, 25.2. układu moczowego (ocena pęcherza moczowego i nerek).",
+      "codes": [
+        "8888.788.75",
+        "8888.788.76"
+      ]
+    },
+    {
+      "text_chunk": "26. USG – narządu ruchu (stawy i mięśnie) (na podstawie skierowania lekarskiego): 26.1. barku, 26.2. stawu biodrowego, 26.3. stawu skokowego, 26.4. stawu barkowego, 26.5. stawu łokciowego, 26.6. stawu kolanowego, 26.7. stawów żuchwowych, 26.8. dołów podkolanowych",
+      "codes": [
+        "8888.788.79"
+      ]
+    },
+    {
+      "text_chunk": "27. USG – pozostałe (na podstawie skierowania lekarskiego): 27.1. piersi, 27.2. biopsja cienkoigłowa piersi pod kontrolą USG wraz z pobraniem materiału do badania cytologicznego (BAC) i jego oceną, 27.3. tarczycy, 27.4. biopsja cienkoigłowa tarczycy pod kontrolą USG wraz z pobraniem materiału do badania cytologicznego i jego oceną, 27.5. jąder i najądrzy, 27.6. powrózka nasiennego",
+      "codes": [
+        "8585.185.11",
+        "8686.186.11",
+        "8888.788.79"
+      ]
+    },
+    {
+      "text_chunk": "28. Badania czynnościowe układu krążenia (na podstawie skierowania lekarskiego): 28.1. EKG spoczynkowe",
+      "codes": [
+        "8989.589.51",
+        "8989.589.52"
+      ]
+    },
+    {
+      "text_chunk": "29. Szczepienia wraz z konsultacją lekarską przed szczepieniem obejmuje iniekcję, koszt szczepionki oraz konsultację kwalifikacyjną przed szczepieniem: 29.1. p. grypie sezonowej – 1 dawka w każdych 12 miesiącach trwania zobowiązania wobec Ubezpieczonego, licząc od dnia objęcia ochroną danego Ubezpieczonego",
+      "codes": [
+        "8989.089.00",
+        "8989.089.04"
+      ]
+    },
+    {
+      "text_chunk": "30. Przegląd stanu zdrowia (bez skierowania lekarskiego): ubezpieczony ma możliwość korzystania z profilaktycznego przeglądu stanu zdrowia dwa razy w 12-miesięcznych okresach trwania zobowiązania wobec Ubezpieczonego, licząc od dnia objęcia ochroną danego Ubezpieczonego. Profilaktyczny przegląd stanu zdrowia obejmuje badania diagnostyczne: 30.1. aminotransferaza alaninowa (ALAT/ALT/GPT), 30.2. aminotransferaza asparaginowa (AspAT/AST/GOT), 30.3. morfologia krwi z rozmazem (z analizatora/rozmaz automatyczny), 30.4. odczyn opadania krwinek czerwonych (OB), 30.5. glukoza/cukier na czczo, 30.6. badanie ogólne moczu, 30.7. cholesterol całkowity (CHOL).",
+      "codes": [
+        "8989.089.00",
+        "8989.089.01"
+      ]
+    },
+    {
+      "text_chunk": "31. Zamawiający wymaga by Wykonawca zapewnił minimum 10% zniżki od aktualnej ceny obowiązującej w placówce do której zgłoszony został Ubezpieczony na wszystkie usługi medyczne świadczone w tej placówce, które nie są objęte posiadanym przez Ubezpieczonego pakietem (w tym również na stomatologiczne leczenie zachowawcze i chirurgiczne; zniżka nie dotyczy diagnostyki rentgenowskiej, leczenia ortodontycznego, protetycznego, implanatologii, stomatologii estetycznej).",
+      "codes": []
+    },
+    {
+      "text_chunk": "8. Konsultacyjne zabiegi ambulatoryjne z zakresu dermatologii – na podstawie skierowania lekarskiego:\n8.1.  zeskrobiny zarażonej grzybem płytki paznokcia.",
+      "codes": [
+        "9191.691.62"
+      ]
+    },
+    {
+      "text_chunk": "9. Konsultacyjne zabiegi ambulatoryjne z zakresu ginekologii (na podstawie skierowania lekarskiego):\n9.1.  pobranie i wykonanie standardowego wymazu cytologicznego, cytohormonalnego.",
+      "codes": [
+        "9191.491.43",
+        "9191.491.44"
+      ]
+    },
+    {
+      "text_chunk": "10.  Konsultacyjne zabiegi ambulatoryjne z zakresu okulistyki (na podstawie skierowania lekarskiego):\n10.1. badanie pola widzenia (perymetria),\n10.2. gonioskopia (ocena kąta przesączania),\n10.3. płukanie dróg łzowych,\n10.4. badanie dna oka,\n10.5. badanie forii,\n10.6. badanie lampą szczelinową,\n10.7. badanie ostrości widzenia,\n10.8. biometria,\n10.9. dobór szkieł okularowych,\n10.10. egzoftalmometria (badanie wytrzeszczu),\n10.11. opatrunek oczny z lekiem,\n10.12. pachymetria,\n10.13. pomiar ciśnienia śródgałkowego,\n10.15. refraktometria (komputerowe badanie wzroku),\n10.16. skiaskopia/retinoskopia (badanie refrakcji oka),\n10.17. usunięcie ciała obcego z oka/powieki.",
+      "codes": [
+        "9393.593.57",
+        "9595.095.01",
+        "9595.095.03",
+        "9595.095.05",
+        "9595.195.11",
+        "9595.195.13",
+        "9595.195.15",
+        "9595.195.19",
+        "9595.295.26",
+        "9595.395.31",
+        "9696.596.51",
+        "9898.298.21"
+      ]
+    },
+    {
+      "text_chunk": "11.  Konsultacyjne zabiegi ambulatoryjne z zakresu urologii (na podstawie skierowania lekarskiego):\n11.1. cewnikowanie pęcherza moczowego\n11.2. płukanie pęcherza moczowego\n11.3. wymiana cewnika (Ubezpieczony pokrywa koszty cewnika)",
+      "codes": [
+        "9696.496.49",
+        "9797.697.64"
+      ]
+    },
+    {
+      "text_chunk": "12.  Konsultacyjne zabiegi ambulatoryjne z zakresu laryngologii (na podstawie skierowania lekarskiego):\n12.1. opatrunek uszny z lekiem,\n12.2. pędzlowanie: gardła, jamy ustnej,\n12.3. płukanie uszu,\n12.4. postępowanie zachowawcze w  przypadku  krwawienia  z  nosa  (założenie  gąbki spongostanowej założenie i usunięcie tamponady przedniej nosa koagulacja naczyń splotu Kisselbacha),\n12.5. przedmuchiwanie trąbek słuchowych,\n12.6. usuwanie ciała obcego z: ucha, nosa, gardła.",
+      "codes": [
+        "9393.593.57",
+        "9696.596.52",
+        "9797.297.21",
+        "9797.397.32",
+        "9898.198.11",
+        "9898.198.12",
+        "9898.198.13"
+      ]
+    },
+    {
+      "text_chunk": "13.  Ambulatoryjna opieka pielęgniarska (na podstawie skierowania lekarskiego):\n13.1. iniekcje: dożylne, domięśniowe, podskórne, śródskórne (Ubezpieczony ponosi koszty podawanych leków),\n13.2. pomiar  ciśnienia  tętniczego,  próba  uczuleniowa  na  lek,  podłączenie  wlewu dożylnego/kroplowego (Ubezpieczony ponosi koszty podawanych leków, płynów),\n13.3. zmiana prostego opatrunku i toaleta rany,\n13.4. lewatywa",
+      "codes": [
+        "9393.593.57",
+        "9696.396.37",
+        "9999.199.18",
+        "9999.199.29"
+      ]
+    },
+    {
+      "text_chunk": "14.  Badania biochemiczne z krwi (na podstawie skierowania lekarskiego): (lista badań: amylaza/diastaza, azot mocznikowy, białko całkowite, ... wapń zjonizowany)",
+      "codes": []
+    },
+    {
+      "text_chunk": "15.   Diagnostyka miażdżycy – badania z krwi (na podstawie skierowania lekarskiego): (cholesterol, HDL, LDL, lipidogram, triglicerydy)",
+      "codes": []
+    },
+    {
+      "text_chunk": "16.  Diagnostyka cukrzycy – badania z krwi (na podstawie skierowania lekarskiego):\n16.1. glukoza/cukier na czczo",
+      "codes": []
+    },
+    {
+      "text_chunk": "17.   Diagnostyka niedokrwistości (anemii) – badania z krwi (na podstawie skierowania lekarskiego):\n17.1. żelazo (Fe)\n17.2. żelazo – całkowita zdolność wiązania (TIBC)\n17.3. transferryna",
+      "codes": []
+    },
+    {
+      "text_chunk": "18.  Badania hematologiczne z krwi (na podstawie skierowania lekarskiego): (grupa krwi, APTT, czas krwawienia, czas krzepnięcia, morfologia, OB, rozmaz, retikulocyty itd.)",
+      "codes": []
+    },
+    {
+      "text_chunk": "19.  Badania serologiczne z krwi (na podstawie skierowania lekarskiego): (Waaler-Rosego, Wassermanna, USR, VDRL, antygen HBs, ASO itd.)",
+      "codes": []
+    },
+    {
+      "text_chunk": "20.  Badania moczu (na podstawie skierowania lekarskiego): (amylaza, badanie ogólne moczu, białko ilościowe, kreatynina, klirens z dobowej zbiórki itd.)",
+      "codes": []
+    },
+    {
+      "text_chunk": "21.  Badania kału (na podstawie skierowania lekarskiego): (badanie ogólne kału, jaja pasożytów, FOBT, badania w kierunku Shigella/Salmonella itd.)",
+      "codes": []
+    },
+    {
+      "text_chunk": "22.  Badania histopatologiczne:\n22.1. pobranie i ocena preparatu histopatologicznego z fragmentów tkankowych pobranych podczas badań i zabiegów ambulatoryjnych przysługujących Ubezpieczonemu w ramach wariantu ubezpieczenia)",
+      "codes": [
+        "9191.891.89"
+      ]
+    },
+    {
+      "text_chunk": "23.  Badania  radiologiczne  z  opisem  – RTG  (na  podstawie  skierowania  lekarskiego).  Zakres  obejmuje pokrycie kosztu kontrastu używanego do badań oraz RTG: (obszerna lista projekcji RTG: klatki piersiowej, czaszki, kręgosłupa, kończyn, stawów, zatok, twarzoczaszki itd.)",
+      "codes": []
+    },
+    {
+      "text_chunk": "24.  USG - narząd rodny, narządy męskie,  ciąża (na podstawie skierowania lekarskiego) - łączna liczba badań –  limit min. 10 w każdych 12 miesiącach trwania zobowiązania wobec Ubezpieczonego, licząc od dnia objęcia ochroną danego Ubezpieczonego):\n24.1. narządu rodnego/miednicy mniejszej (ginekologiczne) – transvaginalne,\n24.2. ocena szyjki macicy – transvaginalne,\n24.3. narządu rodnego przez powłoki brzuszne,\n24.4. prostaty/gruczołu krokowego przez powłoki brzuszne,\n24.5. transrektalne (TRUS) – prostata, odbyt i odbytnica,\n24.6. płodu.",
+      "codes": []
+    },
+    {
+      "text_chunk": "25.  USG – jama brzuszna, układ moczowy (na podstawie skierowania lekarskiego):\n25.1. jamy brzusznej,\n25.2. układu moczowego (ocena pęcherza moczowego i nerek).",
+      "codes": []
+    },
+    {
+      "text_chunk": "26.  USG – narządu ruchu (stawy i mięśnie) (na podstawie skierowania lekarskiego):\n26.1. barku,\n26.2. stawu biodrowego,\n26.3. stawu skokowego,\n26.4. stawu barkowego,\n26.5. stawu łokciowego,\n26.6. stawu kolanowego,\n26.7. stawów żuchwowych,\n26.8. dołów podkolanowych",
+      "codes": []
+    },
+    {
+      "text_chunk": "27.  USG – pozostałe (na podstawie skierowania lekarskiego):\n27.1. piersi,\n27.2. biopsja cienkoigłowa piersi pod kontrolą USG wraz z pobraniem materiału do badania cytologicznego (BAC) i jego oceną,\n27.3. tarczycy,\n27.4. biopsja cienkoigłowa tarczycy pod kontrolą USG wraz z pobraniem materiału do badania cytologicznego i jego oceną,\n27.5. jąder i najądrzy,\n27.6. powrózka nasiennego",
+      "codes": [
+        "9191.891.86"
+      ]
+    },
+    {
+      "text_chunk": "28.  Badania czynnościowe układu krążenia (na podstawie skierowania lekarskiego):\n28.1. EKG spoczynkowe",
+      "codes": []
+    },
+    {
+      "text_chunk": "29.  Szczepienia wraz z konsultacją lekarską przed szczepieniem obejmuje iniekcję, koszt szczepionki oraz konsultację kwalifikacyjną przed szczepieniem:\n29.1. p. grypie sezonowej – 1 dawka w każdych 12 miesiącach trwania zobowiązania wobec Ubezpieczonego, licząc od dnia objęcia ochroną danego Ubezpieczonego",
+      "codes": [
+        "9999.599.52"
+      ]
+    },
+    {
+      "text_chunk": "30.  Przegląd stanu zdrowia (bez skierowania lekarskiego): ubezpieczony ma możliwość korzystania z profilaktycznego  przeglądu  stanu  zdrowia  dwa  razy  w  12-miesięcznych okresach trwania zobowiązania wobec Ubezpieczonego, licząc od dnia objęcia ochroną danego Ubezpieczonego. Profilaktyczny przegląd stanu zdrowia obejmuje badania diagnostyczne:\n30.1. aminotransferaza alaninowa (ALAT/ALT/GPT),\n30.2. aminotransferaza asparaginowa (AspAT/AST/GOT),\n30.3. morfologia krwi z rozmazem (z analizatora/rozmaz automatyczny),\n30.4. odczyn opadania krwinek czerwonych (OB),\n30.5. glukoza/cukier na czczo,\n30.6. badanie ogólne moczu,\n30.7. cholesterol całkowity (CHOL).",
+      "codes": []
+    }
+  ],
+  "reasoning": null
+}

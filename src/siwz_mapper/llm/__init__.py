@@ -1,7 +1,5 @@
 """LLM integration components."""
 
-from .client import LLMClient
-from .prompts import PromptTemplates
 from .gpt_client import GPTClient, FakeGPTClient, GPTClientProtocol
 from .classify_segments import (
     classify_segment,
@@ -11,8 +9,6 @@ from .classify_segments import (
 )
 
 __all__ = [
-    "LLMClient",
-    "PromptTemplates",
     "GPTClient",
     "FakeGPTClient",
     "GPTClientProtocol",

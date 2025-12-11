@@ -1,0 +1,278 @@
+{
+  "mappings": [
+    {
+      "text_chunk": "1. Całodobowa informacja o usługach i świadczeniach zdrowotnych dostępnych w ramach umowy.",
+      "codes": [
+        "8989.089.03"
+      ]
+    },
+    {
+      "text_chunk": "2. Rezerwacja wizyt:\n2.1. za pośrednictwem infolinii dostępnej całą dobę,\n2.2. przez Internet (wykonawca udostępni odpowiednią stronę internetową/formularz),",
+      "codes": []
+    },
+    {
+      "text_chunk": "3. Możliwość otrzymywania SMS z potwierdzeniem terminu świadczeń zdrowotnych.",
+      "codes": []
+    },
+    {
+      "text_chunk": "4. Nielimitowany dostęp do konsultacji medycznych świadczonych przez następujących specjalistów: (lista specjalności: lekarz podstawowej opieki medycznej/lekarz rodzinny, internista, pediatra, chirurg ogólny, dermatolog, dermatolog wenerolog, ginekolog/ginekolog-położnik, otolaryngolog, neurolog, neurochirurg, okulista, pulmonolog, reumatolog, urolog, chirurg dziecięcy, urolog dziecięcy, otolaryngolog dziecięcy, neurolog dziecięcy)",
+      "codes": [
+        "8989.089.02"
+      ]
+    },
+    {
+      "text_chunk": "5. Nielimitowane porady recepturowe (bez konsultacji lekarskiej).",
+      "codes": [
+        "8989.089.03"
+      ]
+    },
+    {
+      "text_chunk": "6. Prowadzenie ciąży: opieka lekarza ginekologa, konsultacje lekarskie i badania diagnostyczne dostępne dla danego Ubezpieczonego w ramach posiadanego wariantu ubezpieczenia. Badania wykonywane na podstawie skierowania lekarskiego.",
+      "codes": [
+        "8989.289.26"
+      ]
+    },
+    {
+      "text_chunk": "7. Konsultacyjne zabiegi ambulatoryjne z zakresu chirurgii – na podstawie skierowania lekarskiego: 7.1. wycięcie klinowe wrastającego paznokcia, 7.2. leczenie zanokcicy z wycięciem klinowym paznokcia lub usunięciem płytki paznokciowej, 7.3. nacinanie i drenaż ropnia: skóry, krwiaka, czyraka, 7.4. opatrzenie drobnych urazów: rany, skręcenia, zwichnięcia, opatrzenie drobnych oparzeń i odmrożeń, proste zamknięcie powierzchownych ran, 7.5. usunięcie: ciała obcego, kleszcza, założenie prostego opatrunku chirurgicznego, zdejmowanie szwów, zmiana prostego opatrunku i toaleta rany.",
+      "codes": [
+        "8686.286.23",
+        "8686.286.22",
+        "8686.586.52",
+        "8686.986.99"
+      ]
+    },
+    {
+      "text_chunk": "8. Konsultacyjne zabiegi ambulatoryjne z zakresu dermatologii – na podstawie skierowania lekarskiego: 8.1. zeskrobiny zarażonej grzybem płytki paznokcia.",
+      "codes": [
+        "AAWW17",
+        "AAWW21"
+      ]
+    },
+    {
+      "text_chunk": "9. Konsultacyjne zabiegi ambulatoryjne z zakresu ginekologii (na podstawie skierowania lekarskiego): 9.1. pobranie i wykonanie standardowego wymazu cytologicznego, cytohormonalnego.",
+      "codes": [
+        "6767.167.13",
+        "6767.167.14"
+      ]
+    },
+    {
+      "text_chunk": "10. Konsultacyjne zabiegi ambulatoryjne z zakresu okulistyki (na podstawie skierowania lekarskiego): 10.1. badanie pola widzenia (perymetria), 10.2. gonioskopia (ocena kąta przesączania), 10.3. płukanie dróg łzowych, 10.4. badanie dna oka, 10.5. badanie forii, 10.6. badanie lampą szczelinową, 10.7. badanie ostrości widzenia, 10.8. biometria, 10.9. dobór szkieł okularowych, 10.10. egzoftalmometria (badanie wytrzeszczu), 10.11. opatrunek oczny z lekiem, 10.12. pachymetria, 10.13. pomiar ciśnienia śródgałkowego, 10.15. refraktometria (komputerowe badanie wzroku), 10.16. skiaskopia/retinoskopia (badanie refrakcji oka), 10.17. usunięcie ciała obcego z oka/powieki.",
+      "codes": [
+        "9595.095.05",
+        "9595.095.04",
+        "9595.195.11",
+        "1212.012.01",
+        "1212.012.02",
+        "9595.295.26",
+        "9595.395.31",
+        "9595.395.32",
+        "9595.195.19"
+      ]
+    },
+    {
+      "text_chunk": "11. Konsultacyjne zabiegi ambulatoryjne z zakresu urologii (na podstawie skierowania lekarskiego): 11.1. cewnikowanie pęcherza moczowego, 11.2. płukanie pęcherza moczowego, 11.3. wymiana cewnika (Ubezpieczony pokrywa koszty cewnika).",
+      "codes": [
+        "5757.057.01",
+        "9696.496.44",
+        "5757.157.13"
+      ]
+    },
+    {
+      "text_chunk": "12. Konsultacyjne zabiegi ambulatoryjne z zakresu laryngologii (na podstawie skierowania lekarskiego): 12.1. opatrunek uszny z lekiem, 12.2. pędzlowanie: gardła, jamy ustnej, 12.3. płukanie uszu, 12.4. postępowanie zachowawcze w przypadku krwawienia z nosa (założenie gąbki spongostanowej, założenie i usunięcie tamponady przedniej nosa, koagulacja naczyń splotu Kisselbacha), 12.5. przedmuchiwanie trąbek słuchowych, 12.6. usuwanie ciała obcego z: ucha, nosa, gardła.",
+      "codes": [
+        "2121.021.01",
+        "2121.021.03",
+        "2020.820.85",
+        "9696.596.51",
+        "9898.198.11",
+        "9898.198.12",
+        "9898.198.13"
+      ]
+    },
+    {
+      "text_chunk": "13. Ambulatoryjna opieka pielęgniarska (na podstawie skierowania lekarskiego): 13.1. iniekcje: dożylne, domięśniowe, podskórne, śródskórne (Ubezpieczony ponosi koszty podawanych leków), 13.2. pomiar ciśnienia tętniczego, próba uczuleniowa na lek, podłączenie wlewu dożylnego/kroplowego (Ubezpieczony ponosi koszty podawanych leków, płynów), 13.3. zmiana prostego opatrunku i toaleta rany, 13.4. lewatywa.",
+      "codes": [
+        "8989.089.04",
+        "9696.396.37",
+        "9999.299.29"
+      ]
+    },
+    {
+      "text_chunk": "14. Badania biochemiczne z krwi (na podstawie skierowania lekarskiego): (lista badań: amylaza/diastaza (AMY), azot mocznikowy (BUN), białko całkowite (BCA), białko całkowite – rozdział elektro-foretyczny (proteinogram), bilirubina całkowita, bilirubina bezpośrednia/sprzężona, bilirubina pośrednia/wolna, chlorki, czynnik reumatoidalny ilościowy, czynnik reumatoidalny (RF) lateksowy/jakościowy, dehydrogenaza mleczanowa (LDH/LD), fosfataza: alkaliczna/zasadowa (ALP/ALK), kwaśna całkowita (ACP), kwaśna sterczowa (PAP), fosfor (P)/fosforan nieorganiczny, ... wapń zjonizowany).",
+      "codes": [
+        "AAII25",
+        "AANN13",
+        "AAII77",
+        "AAII79",
+        "AAII89",
+        "AAII87",
+        "AAII91",
+        "AAII97",
+        "AAKK21",
+        "AAKK21",
+        "AAKK33",
+        "AALL11",
+        "AALL15",
+        "AALL17",
+        "AALL23",
+        "AAOO75",
+        "AAOO77"
+      ]
+    },
+    {
+      "text_chunk": "15. Diagnostyka miażdżycy – badania z krwi (na podstawie skierowania lekarskiego): cholesterol – badanie paskowe, cholesterol całkowity (CHOL), cholesterol HDL, cholesterol LDL, lipidogram (TC, HDL, LDL, TRG/TG), triglicerydy (TRIG/TG).",
+      "codes": [
+        "AAII99",
+        "AAKK01",
+        "AAKK03",
+        "AAKK05",
+        "AAOO49"
+      ]
+    },
+    {
+      "text_chunk": "16. Diagnostyka cukrzycy – badania z krwi (na podstawie skierowania lekarskiego): 16.1. glukoza/cukier na czczo",
+      "codes": [
+        "AALL43"
+      ]
+    },
+    {
+      "text_chunk": "17. Diagnostyka niedokrwistości (anemii) – badania z krwi (na podstawie skierowania lekarskiego): 17.1. żelazo (Fe), 17.2. żelazo – całkowita zdolność wiązania (TIBC), 17.3. transferryna",
+      "codes": [
+        "AAOO95",
+        "AAOO93",
+        "AAOO43"
+      ]
+    },
+    {
+      "text_chunk": "18. Badania hematologiczne z krwi (na podstawie skierowania lekarskiego): 18.1. grupa krwi, 18.2. czas kaolinowo-kefalinowy (APTT), 18.3. czas krwawienia, 18.4. czas krzepnięcia, 18.5. czas krwawienia i krzepnięcia, 18.6. czas trombinowy (TT), 18.7. czas protrombinowy (PT/wskaźnik Quicka/INR), 18.8. fibrynogen (czynnik krzepnięcia I), 18.9. koagulogram (PT, APTT, fibrynogen, czas trombinowy), 18.10–18.12 morfologia krwi obwodowej (kompletna, automatyczna, z rozmazem), 18.13 płytki krwi, 18.14 OB, 18.15 rozmaz krwi obwodowej, 18.16 retikulocyty.",
+      "codes": [
+        "AAEE65",
+        "AAGG11",
+        "AAGG15",
+        "AAGG19",
+        "AAGG25",
+        "AAGG21",
+        "AAGG53",
+        "AAGG21",
+        "AACC55",
+        "AACC53",
+        "AACC55",
+        "AACC66",
+        "AACC59",
+        "AACC69"
+      ]
+    },
+    {
+      "text_chunk": "19. Badania serologiczne z krwi (na podstawie skierowania lekarskiego): 19.1. odczyn Waaler-Rosego, 19.2. odczyn Wassermanna (WR), 19.3. USR, 19.4. VDRL, 19.5. antygen HBs (HbsAg, HBs), 19.6. antygen HBs – test potwierdzenia, 19.7. antystreptolizyna (ASO/ASLO/ASO latex).",
+      "codes": [
+        "AAKK21",
+        "AAUU79",
+        "AAUU80",
+        "AAVV39",
+        "AAVV41",
+        "AASS75"
+      ]
+    },
+    {
+      "text_chunk": "20. Badania moczu (na podstawie skierowania lekarskiego): (szczegółowa lista: badanie ogólne moczu, badanie paskowe, białko ilościowe, kreatynina, klirens kreatyniny z dobowej zbiórki moczu, glukoza/cukier i ketony itd.).",
+      "codes": [
+        "AAAA01",
+        "AAAA15",
+        "AAAA07",
+        "AAAA09",
+        "AAAA25",
+        "AAAA13",
+        "AAAA14",
+        "AAAA19"
+      ]
+    },
+    {
+      "text_chunk": "21. Badania kału (na podstawie skierowania lekarskiego): 21.1. badanie ogólne kału cysty lamblii (ELISA), 21.2. jaja pasożytów, 21.3. kał na krew utajoną (FOBT), 21.4. pojedyncze badanie w kierunku Shigella Salmonella, 21.5. 3 krotne badanie kału w kierunku Shigella Salmonella.",
+      "codes": [
+        "AAXX13",
+        "AAAA17",
+        "AAUU55",
+        "AAUU61",
+        "AAUU59"
+      ]
+    },
+    {
+      "text_chunk": "22. Badania histopatologiczne: 22.1. pobranie i ocena preparatu histopatologicznego z fragmentów tkankowych pobranych podczas badań i zabiegów ambulatoryjnych przysługujących Ubezpieczonemu w ramach wariantu ubezpieczenia",
+      "codes": [
+        "AAYY90"
+      ]
+    },
+    {
+      "text_chunk": "23. Badania radiologiczne z opisem – RTG (na podstawie skierowania lekarskiego). Zakres obejmuje pokrycie kosztu kontrastu używanego do badań oraz RTG: (obszerny wykaz projekcji: klatki piersiowej, czaszki, kończyn, kręgosłupa, jamy brzusznej itp.).",
+      "codes": [
+        "8787.487.43",
+        "8787.087.02",
+        "8888.288.21",
+        "8787.687.61",
+        "8888.388.30"
+      ]
+    },
+    {
+      "text_chunk": "24. USG - narząd rodny, narządy męskie, ciąża (na podstawie skierowania lekarskiego) - łączna liczba badań – limit min. 10 w każdych 12 miesiącach ...: 24.1. narządu rodnego/miednicy mniejszej (ginekologiczne) – transvaginalne, 24.2. ocena szyjki macicy – transvaginalne, 24.3. narządu rodnego przez powłoki brzuszne, 24.4. prostaty/gruczołu krokowego przez powłoki brzuszne, 24.5. transrektalne (TRUS) – prostata, odbyt i odbytnica, 24.6. płodu.",
+      "codes": [
+        "8888.788.78",
+        "8888.788.75",
+        "8888.788.76",
+        "8888.788.79"
+      ]
+    },
+    {
+      "text_chunk": "25. USG – jama brzuszna, układ moczowy (na podstawie skierowania lekarskiego): 25.1. jamy brzusznej, 25.2. układu moczowego (ocena pęcherza moczowego i nerek).",
+      "codes": [
+        "8888.788.76",
+        "8888.788.75"
+      ]
+    },
+    {
+      "text_chunk": "26. USG – narządu ruchu (stawy i mięśnie) (na podstawie skierowania lekarskiego): 26.1. barku, 26.2. stawu biodrowego, 26.3. stawu skokowego, 26.4. stawu barkowego, 26.5. stawu łokciowego, 26.6. stawu kolanowego, 26.7. stawów żuchwowych, 26.8. dołów podkolanowych",
+      "codes": [
+        "8888.788.79"
+      ]
+    },
+    {
+      "text_chunk": "27. USG – pozostałe (na podstawie skierowania lekarskiego): 27.1. piersi, 27.2. biopsja cienkoigłowa piersi pod kontrolą USG wraz z pobraniem materiału do badania cytologicznego (BAC) i jego oceną, 27.3. tarczycy, 27.4. biopsja cienkoigłowa tarczycy pod kontrolą USG wraz z pobraniem materiału do badania cytologicznego i jego oceną, 27.5. jąder i najądrzy, 27.6. powrózka nasiennego",
+      "codes": [
+        "8888.788.79",
+        "8585.185.11",
+        "0606.106.11",
+        "6565.165.11"
+      ]
+    },
+    {
+      "text_chunk": "28. Badania czynnościowe układu krążenia (na podstawie skierowania lekarskiego): 28.1. EKG spoczynkowe",
+      "codes": [
+        "8989.589.52"
+      ]
+    },
+    {
+      "text_chunk": "29. Szczepienia wraz z konsultacją lekarską przed szczepieniem obejmuje iniekcję, koszt szczepionki oraz konsultację kwalifikacyjną przed szczepieniem: 29.1. p. grypie sezonowej – 1 dawka w każdych 12 miesiącach",
+      "codes": [
+        "9999.599.52",
+        "8989.089.01",
+        "9999.199.29"
+      ]
+    },
+    {
+      "text_chunk": "30. Przegląd stanu zdrowia (bez skierowania lekarskiego): ubezpieczony ma możliwość korzystania z profilaktycznego przeglądu stanu zdrowia dwa razy w 12-miesięcznych okresach ... Profilaktyczny przegląd stanu zdrowia obejmuje badania diagnostyczne: 30.1. aminotransferaza alaninowa (ALAT/ALT/GPT), 30.2. aminotransferaza asparaginowa (AspAT/AST/GOT), 30.3. morfologia krwi z rozmazem (z analizatora/rozmaz automatyczny), 30.4. odczyn opadania krwinek czerwonych (OB), 30.5. glukoza/cukier na czczo, 30.6. badanie ogólne moczu, 30.7. cholesterol całkowity (CHOL).",
+      "codes": [
+        "AAII17",
+        "AAII19",
+        "AACC55",
+        "AACC59",
+        "AALL43",
+        "AAAA01",
+        "AAII99"
+      ]
+    },
+    {
+      "text_chunk": "31. Zamawiający wymaga by Wykonawca zapewnił minimum 10% zniżki od aktualnej ceny obowiązującej w placówce do której zgłoszony został Ubezpieczony na wszystkie usługi medyczne świadczone w tej placówce, które nie są objęte posiadanym przez Ubezpieczonego pakietem (w tym również na stomatologiczne leczenie zachowawcze i chirurgiczne; zniżka nie dotyczy diagnostyki rentgenowskiej, leczenia ortodontycznego, protetycznego, implanatologii, stomatologii estetycznej).",
+      "codes": []
+    }
+  ],
+  "reasoning": null
+}

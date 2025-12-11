@@ -4,26 +4,17 @@ import pytest
 
 from siwz_mapper.pipeline import (
     PDFExtractor,
-    VariantDetector,
     ServiceMapper,
     Pipeline,
+    VariantAggregator,
 )
-from siwz_mapper.llm.client import LLMClient
 from siwz_mapper.config import Config
-from siwz_mapper.llm.classify_segments import SegmentClassification
 from siwz_mapper.models import ServiceEntry, VariantResult, DocumentResult
 
 
 # -----------------------
 # Fixtures (local)
 # -----------------------
-
-@pytest.fixture
-def llm_client():
-    # LLMClient is a stub anyway, so empty config is fine
-    cfg = Config()
-    return LLMClient(cfg.llm)
-
 
 @pytest.fixture
 def config():
@@ -66,52 +57,17 @@ class TestPDFExtractor:
         assert hasattr(segs[0], "text")
 
 
-class TestVariantDetector:
-    def test_initialization(self, llm_client):
-        detector = VariantDetector(llm_client)
-        assert detector is not None
-
-    def test_detect_stub(self, llm_client):
-        detector = VariantDetector(llm_client)
-
-        classifications = [
-            SegmentClassification(
-                segment_id="seg1",
-                label="variant_header",
-                variant_hint="1",
-                is_prophylaxis=False,
-                confidence=0.9,
-                rationale="test"
-            ),
-            SegmentClassification(
-                segment_id="seg2",
-                label="variant_body",
-                variant_hint=None,
-                is_prophylaxis=False,
-                confidence=0.9,
-                rationale="test"
-            ),
-        ]
-
-        variants = detector.detect(classifications)
-        assert isinstance(variants, list)
-        assert len(variants) >= 1
-
-
 class TestServiceMapper:
-    def test_initialization(self, llm_client, services):
+    def test_initialization(self, services):
         mapper = ServiceMapper(
-            llm_client=llm_client,
             services=services,
             top_k=5
         )
         assert len(mapper.services) == 2
         assert mapper.top_k == 5
-        assert len(mapper.service_index) == 2
 
-    def test_map_variants_stub(self, llm_client, services):
+    def test_map_variants_stub(self, services):
         mapper = ServiceMapper(
-            llm_client=llm_client,
             services=services
         )
 
@@ -133,14 +89,14 @@ class TestPipeline:
         assert pipeline.config is not None
         assert len(pipeline.services) == 2
         assert pipeline.pdf_extractor is not None
-        assert pipeline.variant_detector is not None
+        assert pipeline.variant_aggregator is not None
         assert pipeline.service_mapper is not None
 
     def test_process_stub(self, config, services, tmp_path):
         pipeline = Pipeline(config=config, services=services)
 
         pdf_path = tmp_path / "test.pdf"
-        pdf_path.write_bytes(b"dummy")
+        pdf_path.write_bytes(b"dummy")  # niepoprawny PDF -> extractor zwróci stub
 
         output_path = tmp_path / "output.json"
 

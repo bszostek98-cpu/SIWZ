@@ -12,7 +12,7 @@ import re
 from typing import List, Tuple, Optional
 import logging
 
-from ..models import PdfSegment, BBox
+from ..models import PdfSegment
 from .normalizer import TextNormalizer
 
 logger = logging.getLogger(__name__)
@@ -42,8 +42,8 @@ class Segmenter:
     
     def __init__(
         self,
-        soft_min_chars: int = 800,
-        soft_max_chars: int = 1200,
+        soft_min_chars: int = SOFT_MIN,
+        soft_max_chars: int = SOFT_MAX,
         normalize_text: bool = True,
         detect_bullets: bool = True,
         detect_tables: bool = True

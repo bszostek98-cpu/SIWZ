@@ -1,0 +1,352 @@
+variant_id;block_no;block_heading_raw;service_local_id;service_text;is_prophylaxis;is_occupational_medicine;page;source_line
+V1;1;Całodobowa informacja o usługach i świadczeniach zdrowotnych dostępnych w ramach umowy.;1;Całodobowa informacja o usługach i świadczeniach zdrowotnych dostępnych w ramach umowy.;0;0;7;1. Całodobowa informacja o usługach i świadczeniach zdrowotnych dostępnych w ramach umowy.
+V1;2;Rezerwacja wizyt:;2.1;za pośrednictwem infolinii dostępnej całą dobę,;0;0;7;2.1. za pośrednictwem infolinii dostępnej całą dobę,
+V1;2;;2.2;przez Internet (wykonawca udostępni odpowiednią stronę internetową/formularz),;0;0;7;2.2. przez Internet (wykonawca udostępni odpowiednią stronę internetową/formularz),
+V1;3;Możliwość otrzymywania SMS z potwierdzeniem terminu świadczeń zdrowotnych.;3;Możliwość otrzymywania SMS z potwierdzeniem terminu świadczeń zdrowotnych.;0;0;7;3. Możliwość otrzymywania SMS z potwierdzeniem terminu świadczeń zdrowotnych.
+V1;4;Nielimitowany dostęp do konsultacji medycznych świadczonych przez następujących specjalistów:;4.1;lekarz podstawowej opieki medycznej/lekarz rodzinny;0;0;7;4.1. lekarz podstawowej opieki medycznej/lekarz rodzinny
+V1;4;;4.2;internista;0;0;7;4.2. internista
+V1;4;;4.3;pediatra;0;0;7;4.3. pediatra
+V1;4;;4.4;chirurg ogólny;0;0;7;4.4. chirurg ogólny
+V1;4;;4.5;dermatolog;0;0;7;4.5. dermatolog
+V1;4;;4.6;dermatolog wenerolog;0;0;7;4.6. dermatolog wenerolog
+V1;4;;4.7;ginekolog/ginekolog-położnik;0;0;7;4.7. ginekolog/ginekolog-położnik
+V1;4;;4.8;otolaryngolog;0;0;7;4.8. otolaryngolog
+V1;4;;4.9;neurolog;0;0;7;4.9. neurolog
+V1;4;;4.10;neurochirurg;0;0;7;4.10. neurochirurg
+V1;4;;4.11;okulista;0;0;7;4.11. okulista
+V1;4;;4.12;pulmonolog;0;0;7;4.12. pulmonolog
+V1;4;;4.13;reumatolog;0;0;7;4.13. reumatolog
+V1;4;;4.14;urolog;0;0;7;4.14. urolog
+V1;4;;4.15;chirurg dziecięcy;0;0;7;4.15. chirurg dziecięcy
+V1;4;;4.16;urolog dziecięcy;0;0;7;4.16. urolog dziecięcy
+V1;4;;4.17;otolaryngolog dziecięcy;0;0;7;4.17. otolaryngolog dziecięcy
+V1;4;;4.18;neurolog dziecięcy;0;0;7;4.18. neurolog dziecięcy
+V1;5;Nielimitowane porady recepturowe (bez konsultacji lekarskiej).;5;Nielimitowane porady recepturowe (bez konsultacji lekarskiej).;0;0;7;5. Nielimitowane porady recepturowe (bez konsultacji lekarskiej).
+V1;6;Prowadzenie ciąży: opieka lekarza ginekologa, konsultacje lekarskie i badania diagnostyczne dostępne dla danego Ubezpieczonego w ramach posiadanego wariantu ubezpieczenia. Badania wykonywane na podstawie skierowania lekarskiego.;6;Prowadzenie ciąży: opieka lekarza ginekologa, konsultacje lekarskie i badania diagnostyczne dostępne dla danego Ubezpieczonego w ramach posiadanego wariantu ubezpieczenia. Badania wykonywane na podstawie skierowania lekarskiego.;0;0;7;6. Prowadzenie ciąży: opieka lekarza ginekologa, konsultacje lekarskie i badania diagnostyczne dostępne dla danego Ubezpieczonego w ramach posiadanego wariantu ubezpieczenia. Badania wykonywane na podstawie skierowania lekarskiego.
+V1;7;Konsultacyjne zabiegi ambulatoryjne z zakresu chirurgii - na podstawie skierowania lekarskiego:;7.1;wycięcie klinowe wrastającego paznokcia,;0;0;7;7.1. wycięcie klinowe wrastającego paznokcia,
+V1;7;;7.2;leczenie zanokcicy z wycięciem klinowym paznokcia lub usunięciem płytki paznokciowej,;0;0;7;7.2. leczenie zanokcicy z wycięciem klinowym paznokcia lub usunięciem płytki paznokciowej,
+V1;7;;7.3;nacinanie i drenaż ropnia: skóry, krwiaka, czyraka,;0;0;7;7.3. nacinanie i drenaż ropnia: skóry, krwiaka, czyraka,
+V1;7;;7.4;opatrzenie drobnych urazów: rany, skręcenia, zwichnięcia, opatrzenie drobnych oparzeń i odmrożeń, proste zamknięcie powierzchownych ran,;0;0;7;7.4. opatrzenie drobnych urazów: rany, skręcenia, zwichnięcia, opatrzenie drobnych oparzeń i odmrożeń, proste zamknięcie powierzchownych ran,
+V1;7;;7.5;usunięcie: ciała obcego, kleszcza, założenie prostego opatrunku chirurgicznego, zdejmowanie szwów, zmiana prostego opatrunku i toaleta rany.;0;0;7;7.5. usunięcie: ciała obcego, kleszcza, założenie prostego opatrunku chirurgicznego, zdejmowanie szwów, zmiana prostego opatrunku i toaleta rany.
+V1;8;Konsultacyjne zabiegi ambulatoryjne z zakresu dermatologii - na podstawie skierowania lekarskiego:;8.1;zeskrobiny zarażonej grzybem płytki paznokcia.;0;0;7;8.1. zeskrobiny zarażonej grzybem płytki paznokcia.
+V1;9;Konsultacyjne zabiegi ambulatoryjne z zakresu ginekologii (na podstawie skierowania lekarskiego):;9.1;pobranie i wykonanie standardowego wymazu cytologicznego, cytohormonalnego.;0;0;7;9.1. pobranie i wykonanie standardowego wymazu cytologicznego, cytohormonalnego.
+V1;10;Konsultacyjne zabiegi ambulatoryjne z zakresu okulistyki (na podstawie skierowania lekarskiego):;10.1;badanie pola widzenia (perymetria),;0;0;7;10.1. badanie pola widzenia (perymetria),
+V1;10;;10.2;gonioskopia (ocena kąta przesączania),;0;0;7;10.2. gonioskopia (ocena kąta przesączania),
+V1;10;;10.3;płukanie dróg łzowych,;0;0;8;10.3. płukanie dróg łzowych,
+V1;10;;10.4;badanie dna oka,;0;0;8;10.4. badanie dna oka,
+V1;10;;10.5;badanie forii,;0;0;8;10.5. badanie forii,
+V1;10;;10.6;badanie lampą szczelinową,;0;0;8;10.6. badanie lampą szczelinową,
+V1;10;;10.7;badanie ostrości widzenia,;0;0;8;10.7. badanie ostrości widzenia,
+V1;10;;10.8;biometria,;0;0;8;10.8. biometria,
+V1;10;;10.9;dobór szkieł okularowych,;0;0;8;10.9. dobór szkieł okularowych,
+V1;10;;10.10;egzoftalmometria (badanie wytrzeszczu),;0;0;8;10.10. egzoftalmometria (badanie wytrzeszczu),
+V1;10;;10.11;opatrunek oczny z lekiem,;0;0;8;10.11. opatrunek oczny z lekiem,
+V1;10;;10.12;pachymetria,;0;0;8;10.12. pachymetria,
+V1;10;;10.13;pomiar ciśnienia;0;0;8;10.13. pomiar ciśnienia
+V1;10;;10.14;śródgałkowego,;0;0;8;10.14. śródgałkowego,
+V1;10;;10.15;refraktometria (komputerowe badanie wzroku),;0;0;8;10.15. refraktometria (komputerowe badanie wzroku),
+V1;10;;10.16;skiaskopia/retinoskopia (badanie refrakcji oka),;0;0;8;10.16. skiaskopia/retinoskopia (badanie refrakcji oka),
+V1;10;;10.17;usunięcie ciała obcego z oka/powieki.;0;0;8;10.17. usunięcie ciała obcego z oka/powieki.
+V1;11;Konsultacyjne zabiegi ambulatoryjne z zakresu urologii (na podstawie skierowania lekarskiego):;11.1;cewnikowanie pęcherza moczowego;0;0;8;11.1. cewnikowanie pęcherza moczowego
+V1;11;;11.2;płukanie pęcherza moczowego;0;0;8;11.2. płukanie pęcherza moczowego
+V1;11;;11.3;wymiana cewnika (Ubezpieczony pokrywa koszty cewnika);0;0;8;11.3. wymiana cewnika (Ubezpieczony pokrywa koszty cewnika)
+V1;12;Konsultacyjne zabiegi ambulatoryjne z zakresu laryngologii (na podstawie skierowania lekarskiego):;12.1;opatrunek uszny z lekiem,;0;0;8;12.1. opatrunek uszny z lekiem,
+V1;12;;12.2;pędzlowanie: gardła, jamy ustnej,;0;0;8;12.2. pędzlowanie: gardła, jamy ustnej,
+V1;12;;12.3;płukanie uszu,;0;0;8;12.3. płukanie uszu,
+V1;12;;12.4;postępowanie zachowawcze w przypadku krwawienia z nosa (założenie gąbki spongostanowej, założenie i usunięcie tamponady przedniej nosa, koagulacja naczyń splotu Kisselbacha),;0;0;8;12.4. postępowanie zachowawcze w przypadku krwawienia z nosa (założenie gąbki spongostanowej, założenie i usunięcie tamponady przedniej nosa, koagulacja naczyń splotu Kisselbacha),
+V1;12;;12.5;przedmuchiwanie trąbek słuchowych,;0;0;8;12.5. przedmuchiwanie trąbek słuchowych,
+V1;12;;12.6;usuwanie ciała obcego z: ucha, nosa, gardła.;0;0;8;12.6. usuwanie ciała obcego z: ucha, nosa, gardła.
+V1;13;Ambulatoryjna opieka pielęgniarska (na podstawie skierowania lekarskiego):;13.1;iniekcje: dożylne, domięśniowe, podskórne, śródskórne (Ubezpieczony ponosi koszty podawanych leków),;0;0;8;13.1. iniekcje: dożylne, domięśniowe, podskórne, śródskórne (Ubezpieczony ponosi koszty podawanych leków),
+V1;13;;13.2;pomiar ciśnienia tętniczego, próba uczuleniowa na lek, podłączenie wlewu dożylnego/kroplowego (Ubezpieczony ponosi koszty podawanych leków, płynów),;0;0;8;13.2. pomiar ciśnienia tętniczego, próba uczuleniowa na lek, podłączenie wlewu dożylnego/kroplowego (Ubezpieczony ponosi koszty podawanych leków, płynów),
+V1;13;;13.3;zmiana prostego opatrunku i toaleta rany,;0;0;8;13.3. zmiana prostego opatrunku i toaleta rany,
+V1;13;;13.4;lewatywa;0;0;8;13.4. lewatywa
+V1;14;Badania biochemiczne z krwi (na podstawie skierowania lekarskiego):;14.1;amylaza/diastaza (AMY),;0;0;8;14.1. amylaza/diastaza (AMY),
+V1;14;;14.2;azot mocznikowy (BUN),;0;0;8;14.2. azot mocznikowy (BUN),
+V1;14;;14.3;białko całkowite (BCA),;0;0;8;14.3. białko całkowite (BCA),
+V1;14;;14.4;białko całkowite - rozdział elektro-foretyczny (proteinogram),;0;0;8;14.4. białko całkowite - rozdział elektro-foretyczny (proteinogram),
+V1;14;;14.5;bilirubina całkowita (BILC/BIL total),;0;0;8;14.5. bilirubina całkowita (BILC/BIL total),
+V1;14;;14.6;bilirubina bezpośrednia/sprzężona/związana (BILB/BIL direct),;0;0;8;14.6. bilirubina bezpośrednia/sprzężona/związana (BILB/BIL direct),
+V1;14;;14.7;bilirubina pośrednia/wolna,;0;0;8;14.7. bilirubina pośrednia/wolna,
+V1;14;;14.8;chlorki,;0;0;8;14.8. chlorki,
+V1;14;;14.9;czynnik reumatoidalny ilościowy,;0;0;8;14.9. czynnik reumatoidalny ilościowy,
+V1;14;;14.10;czynnik reumatoidalny (RF) lateksowy/jakościowy,;0;0;8;14.10. czynnik reumatoidalny (RF) lateksowy/jakościowy,
+V1;14;;14.11;dehydrogenaza mleczanowa (LDH/LD),;0;0;8;14.11. dehydrogenaza mleczanowa (LDH/LD),
+V1;14;;14.12;fosfataza: alkaliczna/zasadowa (ALP/ALK), kwaśna całkowita (ACP), kwaśna sterczowa (PAP),;0;0;8;14.12. fosfataza: alkaliczna/zasadowa (ALP/ALK), kwaśna całkowita (ACP), kwaśna sterczowa (PAP),
+V1;14;;14.13;fosfor (P)/fosforan nieorganiczny,;0;0;8;14.13. fosfor (P)/fosforan nieorganiczny,
+V1;14;;14.14;USR,;0;0;9;14.14. USR,
+V1;14;;14.15;VDRL,;0;0;9;14.15. VDRL,
+V1;14;;14.16;albumina (ALB),;0;0;9;14.16. albumina (ALB),
+V1;14;;14.17;aminotransferaza alaninowa (AlAT/ALT/GPT),;0;0;9;14.17. aminotransferaza alaninowa (AlAT/ALT/GPT),
+V1;14;;14.18;aminotransferaza asparaginowa (AspAT/AST/GOT),;0;0;9;14.18. aminotransferaza asparaginowa (AspAT/AST/GOT),
+V1;14;;14.19;białko C-reaktywne (CRP/hs-CRP) - ilościowo,;0;0;9;14.19. białko C-reaktywne (CRP/hs-CRP) - ilościowo,
+V1;14;;14.20;białko C-reaktywne (CRP/hs-CRP) - jakościowo,;0;0;9;14.20. białko C-reaktywne (CRP/hs-CRP) - jakościowo,
+V1;14;;14.21;białko C-reaktywne - test paskowy, gamma,;0;0;9;14.21. białko C-reaktywne - test paskowy, gamma,
+V1;14;;14.22;glutamylotranferaza (GGTP/GGT),;0;0;9;14.22. glutamylotranferaza (GGTP/GGT),
+V1;14;;14.23;glukoza na czczo,;0;0;9;14.23. glukoza na czczo,
+V1;14;;14.24;glukoza badanie glukometrem,;0;0;9;14.24. glukoza badanie glukometrem,
+V1;14;;14.25;sód (Na) i potas (K),;0;0;9;14.25. sód (Na) i potas (K),
+V1;14;;14.26;chlorki,;0;0;9;14.26. chlorki,
+V1;14;;14.27;kreatynina/klirens kreatyniny (GFR),;0;0;9;14.27. kreatynina/klirens kreatyniny (GFR),
+V1;14;;14.28;mocznik,;0;0;9;14.28. mocznik,
+V1;14;;14.29;próby wątrobowe (ALAT/ALT/GPT, AspAT/AST/GOT),;0;0;9;14.29. próby wątrobowe (ALAT/ALT/GPT, AspAT/AST/GOT),
+V1;14;;14.30;kinaza fosfokreaty-nowa/kreatynowa (CK/CPK),;0;0;9;14.30. kinaza fosfokreaty-nowa/kreatynowa (CK/CPK),
+V1;14;;14.31;kinaza fosfokreatynowa izoenzym (CKMB) - mass,;0;0;9;14.31. kinaza fosfokreatynowa izoenzym (CKMB) - mass,
+V1;14;;14.32;kinaza fosfokreatynowa izoenzym (CKMB) - aktywność,;0;0;9;14.32. kinaza fosfokreatynowa izoenzym (CKMB) - aktywność,
+V1;14;;14.33;kwas moczowy,;0;0;9;14.33. kwas moczowy,
+V1;14;;14.34;magnez (Mg),;0;0;9;14.34. magnez (Mg),
+V1;14;;14.35;wapń całkowity (Ca),;0;0;9;14.35. wapń całkowity (Ca),
+V1;14;;14.36;wapń zjonizowany;0;0;9;14.36. wapń zjonizowany
+
+V1;15;Diagnostyka miażdżycy - badania z krwi (na podstawie skierowania lekarskiego):;15.1;cholesterol - badanie paskowe,;0;0;9;15.1. cholesterol - badanie paskowe,
+V1;15;;15.2;cholesterol całkowity (CHOL),;0;0;9;15.2. cholesterol całkowity (CHOL),
+V1;15;;15.3;cholesterol HDL,;0;0;9;15.3. cholesterol HDL,
+V1;15;;15.4;cholesterol LDL,;0;0;9;15.4. cholesterol LDL,
+V1;15;;15.5;lipidogram (TC, HDL, LDL, TRG/TG),;0;0;9;15.5. lipidogram (TC, HDL, LDL, TRG/TG),
+V1;15;;15.6;triglicerydy (TRIG/TG).;0;0;9;15.6. triglicerydy (TRIG/TG).
+
+V1;16;Diagnostyka cukrzycy - badania z krwi (na podstawie skierowania lekarskiego):;16.1;glukoza/cukier na czczo;0;0;9;16.1. glukoza/cukier na czczo
+
+V1;17;Diagnostyka niedokrwistości (anemii) - badania z krwi (na podstawie skierowania lekarskiego):;17.1;żelazo (Fe);0;0;9;17.1. żelazo (Fe)
+V1;17;;17.2;żelazo - całkowita zdolność wiązania (TIBC);0;0;9;17.2. żelazo - całkowita zdolność wiązania (TIBC)
+V1;17;;17.3;transferryna;0;0;9;17.3. transferryna
+
+V1;18;Badania hematologiczne z krwi (na podstawie skierowania lekarskiego):;18.1;grupa krwi;0;0;9;18.1. grupa krwi
+V1;18;;18.2;czas kaolinowo-kefalinowy (APTT),;0;0;9;18.2. czas kaolinowo-kefalinowy (APTT),
+V1;18;;18.3;czas krwawienia,;0;0;9;18.3. czas krwawienia,
+V1;18;;18.4;czas krzepnięcia,;0;0;9;18.4. czas krzepnięcia,
+V1;18;;18.5;czas krwawienia i krzepnięcia,;0;0;9;18.5. czas krwawienia i krzepnięcia,
+V1;18;;18.6;czas trombinowy (TT),;0;0;9;18.6. czas trombinowy (TT),
+V1;18;;18.7;czas protrombinowy (PT/wskaźnik Quicka/INR),;0;0;9;18.7. czas protrombinowy (PT/wskaźnik Quicka/INR),
+V1;18;;18.8;fibrynogen (czynnik krzepnięcia I),;0;0;9;18.8. fibrynogen (czynnik krzepnięcia I),
+V1;18;;18.9;koagulogram (PT, APTT, fibrynogen, czas trombinowy),;0;0;9;18.9. koagulogram (PT, APTT, fibrynogen, czas trombinowy),
+V1;18;;18.10;morfologia krwi obwodowej: kompletna morfologia krwi obwodowej (Hgb, Hct, erytrocyty (RBC), leukocyty (WBC), płytki krwi;0;0;9;18.10. morfologia krwi obwodowej: kompletna morfologia krwi obwodowej (Hgb, Hct, erytrocyty (RBC), leukocyty (WBC), płytki krwi
+V1;18;;18.11;morfologia krwi obwodowej: kompletna morfologia krwi obwodowej (Hgb, Hct, erytrocyty (RBC), leukocyty (WBC), płytki krwi - automatyczne zliczanie odsetek leukocytów;0;0;9;18.11. morfologia krwi obwodowej: kompletna morfologia krwi obwodowej (Hgb, Hct, erytrocyty (RBC), leukocyty (WBC), płytki krwi - automatyczne zliczanie odsetek leukocytów
+V1;18;;18.12;morfologia krwi obwodowej z rozmazem, ocena mikroskopowa oraz ręcznie wykonany wzór odsetkowy leukocytów;0;0;9;18.12. morfologia krwi obwodowej z rozmazem, ocena mikroskopowa oraz ręcznie wykonany wzór odsetkowy leukocytów
+V1;18;;18.13;płytki krwi,;0;0;10;18.13. płytki krwi,
+V1;18;;18.14;odczyn opadania krwinek czerwonych (OB - odczyn Biernackiego),;0;0;10;18.14. odczyn opadania krwinek czerwonych (OB - odczyn Biernackiego),
+V1;18;;18.15;rozmaz krwi obwodowej,;0;0;10;18.15. rozmaz krwi obwodowej,
+V1;18;;18.16;retikulocyty.;0;0;10;18.16. retikulocyty.
+
+V1;19;Badania serologiczne z krwi (na podstawie skierowania lekarskiego):;19;Badania serologiczne z krwi (na podstawie skierowania lekarskiego):;0;0;10;19.  Badania serologiczne z krwi (na podstawie skierowania lekarskiego):
+V1;19;;19.1;odczyn Waaler-Rosego,;0;0;10;19.1. odczyn Waaler-Rosego,
+V1;19;;19.2;odczyn Wassermanna (WR),;0;0;10;19.2. odczyn Wassermanna (WR),
+V1;19;;19.3;USR,;0;0;10;19.3. USR,
+V1;19;;19.4;VDRL;0;0;10;19.4. VDRL
+V1;19;;19.5;antygen HBs (HbsAg, HBs),;0;0;10;19.5. antygen HBs (HbsAg, HBs),
+V1;19;;19.6;antygen HBs - test potwierdzenia,;0;0;10;19.6. antygen HBs - test potwierdzenia,
+V1;19;;19.7;antystreptolizyna (ASO/ASLO/ASO latex);0;0;10;19.7. antystreptolizyna (ASO/ASLO/ASO latex)
+
+V1;20;Badania moczu (na podstawie skierowania lekarskiego):;20;Badania moczu (na podstawie skierowania lekarskiego):;0;0;10;20.  Badania moczu (na podstawie skierowania lekarskiego):
+V1;20;;20.1;amylaza/diastaza (AMY),;0;0;10;20.1. amylaza/diastaza (AMY),
+V1;20;;20.2;amylaza/diastaza z dobowej zbiórki moczu,;0;0;10;20.2. amylaza/diastaza z dobowej zbiórki moczu,
+V1;20;;20.3;badanie ogólne moczu,;0;0;10;20.3. badanie ogólne moczu,
+V1;20;;20.4;badanie ogólne moczu - badanie paskowe,;0;0;10;20.4. badanie ogólne moczu - badanie paskowe,
+V1;20;;20.5;białko ilościowe,;0;0;10;20.5. białko ilościowe,
+V1;20;;20.6;białko z dobowej zbiórki moczu,;0;0;10;20.6. białko z dobowej zbiórki moczu,
+V1;20;;20.7;białko Bence-Jonesa metodą,;0;0;10;20.7. białko Bence-Jonesa metodą,
+V1;20;;20.8;immunofiksacji,;0;0;10;20.8. immunofiksacji,
+V1;20;;20.9;bilirubina,;0;0;10;20.9. bilirubina,
+V1;20;;20.10;glukoza/cukier i ketony,;0;0;10;20.10. glukoza/cukier i ketony,
+V1;20;;20.11;glukoza/cukier z dobowej zbiórki moczu,;0;0;10;20.11. glukoza/cukier z dobowej zbiórki moczu,
+V1;20;;20.12;urobilinogen,;0;0;10;20.12. urobilinogen,
+V1;20;;20.13;kreatynina,;0;0;10;20.13. kreatynina,
+V1;20;;20.14;kreatynina z dobowej zbiórko moczu,;0;0;10;20.14. kreatynina z dobowej zbiórko moczu,
+V1;20;;20.15;chlorki,;0;0;10;20.15. chlorki,
+V1;20;;20.16;chlorki z dobowej zbiórki moczu,;0;0;10;20.16. chlorki z dobowej zbiórki moczu,
+V1;20;;20.17;fosfor (P)/fosforan nieorganiczny,;0;0;10;20.17. fosfor (P)/fosforan nieorganiczny,
+V1;20;;20.18;fosfor (P)/fosforan nieorganiczny z dobowej zbiórki moczu,;0;0;10;20.18. fosfor (P)/fosforan nieorganiczny z dobowej zbiórki moczu,
+V1;20;;20.19;sód (Na),;0;0;10;20.19. sód (Na),
+V1;20;;20.20;sód (Na) z dobowej zbiórki moczu,;0;0;10;20.20. sód (Na) z dobowej zbiórki moczu,
+V1;20;;20.21;potas (K),;0;0;10;20.21. potas (K),
+V1;20;;20.22;potas (K) z dobowej zbiórki moczu,;0;0;10;20.22. potas (K) z dobowej zbiórki moczu,
+V1;20;;20.23;chlorki,;0;0;10;20.23. chlorki,
+V1;20;;20.24;klirens kreatyniny z dobowej zbiórki moczu (GHR),;0;0;10;20.24. klirens kreatyniny z dobowej zbiórki moczu (GHR),
+V1;20;;20.25;kwas moczowy,;0;0;10;20.25. kwas moczowy,
+V1;20;;20.26;kwas moczowy z dobowej zbiórki moczu,;0;0;10;20.26. kwas moczowy z dobowej zbiórki moczu,
+V1;20;;20.27;liczba Addisa z dobowej zbiórki moczu,;0;0;10;20.27. liczba Addisa z dobowej zbiórki moczu,
+V1;20;;20.28;magnez całkowity (Mg),;0;0;10;20.28. magnez całkowity (Mg),
+V1;20;;20.29;magnez (Mg) z dobowej zbiórki moczu,;0;0;10;20.29. magnez (Mg) z dobowej zbiórki moczu,
+V1;20;;20.30;mocznik,;0;0;10;20.30. mocznik,
+V1;20;;20.31;mocznik z dobowej zbiórki moczu,;0;0;10;20.31. mocznik z dobowej zbiórki moczu,
+V1;20;;20.32;wapń całkowity (Ca),;0;0;10;20.32. wapń całkowity (Ca),
+V1;20;;20.33;wapń z dobowej zbiórki moczu,;0;0;10;20.33. wapń z dobowej zbiórki moczu,
+V1;20;;20.34;wydalanie wapnia w stosunku do kreatyniny;0;0;10;20.34. wydalanie wapnia w stosunku do kreatyniny
+
+V1;21;Badania kału (na podstawie skierowania lekarskiego):;21;Badania kału (na podstawie skierowania lekarskiego):;0;0;10;21.  Badania kału (na podstawie skierowania lekarskiego):
+V1;21;;21.1;badanie ogólne kału cysty lamblii (ELISA),;0;0;10;21.1. badanie ogólne kału cysty lamblii (ELISA),
+V1;21;;21.2;jaja pasożytów,;0;0;10;21.2. jaja pasożytów,
+V1;21;;21.3;kał na krew utajoną (FOBT),;0;0;10;21.3. kał na krew utajoną (FOBT),
+V1;21;;21.4;pojedyncze badanie w kierunku Shigella Salmonella,;0;0;10;21.4. pojedyncze badanie w kierunku Shigella Salmonella,
+
+V1;21;;21.5;3 krotne badanie kału w kierunku Shigella Salmonella.;0;0;11;21.5. 3 krotne badanie kału w kierunku Shigella Salmonella.
+
+V1;22;Badania histopatologiczne:;22;Badania histopatologiczne:;0;0;11;22.  Badania histopatologiczne:
+V1;22;;22.1;pobranie i ocena preparatu histopatologicznego z fragmentów tkankowych pobranych podczas badań i zabiegów ambulatoryjnych przysługujących Ubezpieczonemu w ramach wariantu ubezpieczenia);0;0;11;22.1. pobranie i ocena preparatu histopatologicznego z fragmentów tkankowych pobranych podczas badań i zabiegów ambulatoryjnych przysługujących Ubezpieczonemu w ramach wariantu ubezpieczenia)
+
+V1;23;Badania  radiologiczne  z  opisem  - RTG  (na  podstawie  skierowania  lekarskiego).  Zakres  obejmuje pokrycie kosztu kontrastu używanego do badań oraz RTG:;23;Badania  radiologiczne  z  opisem  - RTG  (na  podstawie  skierowania  lekarskiego).  Zakres  obejmuje pokrycie kosztu kontrastu używanego do badań oraz RTG:;0;0;11;23.  Badania  radiologiczne  z  opisem  - RTG  (na  podstawie  skierowania  lekarskiego).  Zakres  obejmuje pokrycie kosztu kontrastu używanego do badań oraz RTG:
+V1;23;;23.1;klatki piersiowej AP,;0;0;11;23.1. klatki piersiowej AP,
+V1;23;;23.2;klatki piersiowej AP i bok,;0;0;11;23.2. klatki piersiowej AP i bok,
+V1;23;;23.3;klatki piersiowej bok, mostka, żeber, żeber skos,;0;0;11;23.3. klatki piersiowej bok, mostka, żeber, żeber skos,
+V1;23;;23.4;czaszki (1 projekcja),;0;0;11;23.4. czaszki (1 projekcja),
+V1;23;;23.5;czaszki AP + bok,;0;0;11;23.5. czaszki AP + bok,
+V1;23;;23.6;czaszki celowane na siodełko tureckie,;0;0;11;23.6. czaszki celowane na siodełko tureckie,
+V1;23;;23.7;czaszki - kanały nerwów czaszkowych,;0;0;11;23.7. czaszki - kanały nerwów czaszkowych,
+V1;23;;23.8;czaszki półosiowe wg Orleya/potylicy wg Towna,;0;0;11;23.8. czaszki półosiowe wg Orleya/potylicy wg Towna,
+V1;23;;23.9;czaszki - podstawy,;0;0;11;23.9. czaszki - podstawy,
+V1;23;;23.10;celowany na szyjkę kości udowej,;0;0;11;23.10. celowany na szyjkę kości udowej,
+V1;23;;23.11;dłoni/ręki(rąk) AP + bok,;0;0;11;23.11. dłoni/ręki(rąk) AP + bok,
+V1;23;;23.12;dłoni/ręki (rąk) porównawcze,;0;0;11;23.12. dłoni/ręki (rąk) porównawcze,
+V1;23;;23.13;górnego odcinka przewodu pokarmowego (badanie przełyku, żołądka i dwunastnicy),;0;0;11;23.13. górnego odcinka przewodu pokarmowego (badanie przełyku, żołądka i dwunastnicy),
+V1;23;;23.14;jamy brzusznej - przeglądowe,;0;0;11;23.14. jamy brzusznej - przeglądowe,
+V1;23;;23.15;kości jarzmowych,;0;0;11;23.15. kości jarzmowych,
+V1;23;;23.16;kości krzyżowo- ogonowej AP,;0;0;11;23.16. kości krzyżowo- ogonowej AP,
+V1;23;;23.17;kości krzyżowo-ogonowej AP + bok,;0;0;11;23.17. kości krzyżowo-ogonowej AP + bok,
+V1;23;;23.18;kości krzyżowo-ogonowej bok,;0;0;11;23.18. kości krzyżowo-ogonowej bok,
+V1;23;;23.19;kości nosa,;0;0;11;23.19. kości nosa,
+V1;23;;23.20;kości piętowej,;0;0;11;23.20. kości piętowej,
+V1;23;;23.21;kości piętowej osiowe + bok,;0;0;11;23.21. kości piętowej osiowe + bok,
+V1;23;;23.22;kości piętowej osiowe,;0;0;11;23.22. kości piętowej osiowe,
+V1;23;;23.23;kości piętowej bok,;0;0;11;23.23. kości piętowej bok,
+V1;23;;23.24;kości piętowych,;0;0;11;23.24. kości piętowych,
+V1;23;;23.25;kości podudzia AP,;0;0;11;23.25. kości podudzia AP,
+V1;23;;23.26;kości podudzia bok,;0;0;11;23.26. kości podudzia bok,
+V1;23;;23.27;kości podudzia AP + bok,;0;0;11;23.27. kości podudzia AP + bok,
+V1;23;;23.28;kości obu podudzi (porównawcze),;0;0;11;23.28. kości obu podudzi (porównawcze),
+V1;23;;23.29;kości ramiennej AP,;0;0;11;23.29. kości ramiennej AP,
+V1;23;;23.30;kości ramiennej bok,;0;0;11;23.30. kości ramiennej bok,
+V1;23;;23.31;kości ramiennej AP + bok,;0;0;11;23.31. kości ramiennej AP + bok,
+V1;23;;23.32;kości skroniowej,;0;0;11;23.32. kości skroniowej,
+V1;23;;23.33;kości udowej AP,;0;0;11;23.33. kości udowej AP,
+V1;23;;23.34;kości udowej bok,;0;0;11;23.34. kości udowej bok,
+V1;23;;23.35;kości udowej AP + bok,;0;0;11;23.35. kości udowej AP + bok,
+V1;23;;23.36;kręgosłupa - całego,;0;0;11;23.36. kręgosłupa - całego,
+V1;23;;23.37;kręgosłupa lędźwiowego AP,;0;0;11;23.37. kręgosłupa lędźwiowego AP,
+V1;23;;23.38;kręgosłupa lędźwiowego AP + bok,;0;0;11;23.38. kręgosłupa lędźwiowego AP + bok,
+V1;23;;23.39;kręgosłupa lędźwiowego bok/skos,;0;0;11;23.39. kręgosłupa lędźwiowego bok/skos,
+V1;23;;23.40;kręgosłupa lędźwiowego czynnościowe,;0;0;11;23.40. kręgosłupa lędźwiowego czynnościowe,
+V1;23;;23.41;kręgosłupa lędźwiowego-krzyżowego,;0;0;11;23.41. kręgosłupa lędźwiowego-krzyżowego,
+V1;23;;23.42;kręgosłupa lędźwiowo-krzyżowego czynnościowe,;0;0;11;23.42. kręgosłupa lędźwiowo-krzyżowego czynnościowe,
+V1;23;;23.43;kręgosłupa piersiowego AP,;0;0;11;23.43. kręgosłupa piersiowego AP,
+V1;23;;23.44;kręgosłupa piersiowego bok, kręgosłupa piersiowego AP + bok,;0;0;11;23.44. kręgosłupa piersiowego bok, kręgosłupa piersiowego AP + bok,
+V1;23;;23.45;kręgosłupa piersiowego czynnościowe,;0;0;11;23.45. kręgosłupa piersiowego czynnościowe,
+
+V1;23;;23.46;kręgosłupa piersiowo-lędźwiowego AP,;0;0;12;23.46. kręgosłupa piersiowo-lędźwiowego AP,
+V1;23;;23.47;kręgosłupa piersiowo-lędźwiowego AP + bok,;0;0;12;23.47. kręgosłupa piersiowo-lędźwiowego AP + bok,
+V1;23;;23.48;kręgosłupa piersiowo-lędźwiowego bok,;0;0;12;23.48. kręgosłupa piersiowo-lędźwiowego bok,
+V1;23;;23.49;kręgosłupa (skolioza),;0;0;12;23.49. kręgosłupa (skolioza),
+V1;23;;23.50;kręgosłupa szyjnego AP + bok,;0;0;12;23.50. kręgosłupa szyjnego AP + bok,
+V1;23;;23.51;kręgosłupa szyjnego czynnościowe,;0;0;12;23.51. kręgosłupa szyjnego czynnościowe,
+V1;23;;23.52;kręgosłupa szyjnego - bok,;0;0;12;23.52. kręgosłupa szyjnego - bok,
+V1;23;;23.53;kręgosłupa szyjnego skosy,;0;0;12;23.53. kręgosłupa szyjnego skosy,
+V1;23;;23.54;kręgosłupa szyjnego celowane na ząb obrotnika,;0;0;12;23.54. kręgosłupa szyjnego celowane na ząb obrotnika,
+V1;23;;23.55;krtani,;0;0;12;23.55. krtani,
+V1;23;;23.56;łopatki AP,;0;0;12;23.56. łopatki AP,
+V1;23;;23.57;łopatki AP,;0;0;12;23.57. łopatki AP,
+V1;23;;23.58;łopatki osiowe,;0;0;12;23.58. łopatki osiowe,
+V1;23;;23.59;łopatki AP + osiowe,;0;0;12;23.59. łopatki AP + osiowe,
+V1;23;;23.60;łopatek (porównawcze),;0;0;12;23.60. łopatek (porównawcze),
+V1;23;;23.61;nadgarstka celowane na kość łódeczkową,;0;0;12;23.61. nadgarstka celowane na kość łódeczkową,
+V1;23;;23.62;nadgarstka AP,;0;0;12;23.62. nadgarstka AP,
+V1;23;;23.63;nadgarstka AP + bok/skos,;0;0;12;23.63. nadgarstka AP + bok/skos,
+V1;23;;23.64;nadgarstka bok/skos,;0;0;12;23.64. nadgarstka bok/skos,
+V1;23;;23.65;nadgarstków,;0;0;12;23.65. nadgarstków,
+V1;23;;23.66;nosogardzieli, obojczyka,;0;0;12;23.66. nosogardzieli, obojczyka,
+V1;23;;23.67;obojczyka porównawcze,;0;0;12;23.67. obojczyka porównawcze,
+V1;23;;23.68;obu rzepek,;0;0;12;23.68. obu rzepek,
+V1;23;;23.69;osiowe rzepki,;0;0;12;23.69. osiowe rzepki,
+V1;23;;23.70;ocena wczesnych zmian reumatoidalnych rąk,;0;0;12;23.70. ocena wczesnych zmian reumatoidalnych rąk,
+V1;23;;23.71;oczodołów PA,;0;0;12;23.71. oczodołów PA,
+V1;23;;23.72;oczodołów PA + bok,;0;0;12;23.72. oczodołów PA + bok,
+V1;23;;23.73;okolicy tarczycy i szyi,;0;0;12;23.73. okolicy tarczycy i szyi,
+V1;23;;23.74;palca (palców) ręki,;0;0;12;23.74. palca (palców) ręki,
+V1;23;;23.75;palca (palców) stopy,;0;0;12;23.75. palca (palców) stopy,
+V1;23;;23.76;przełyku,;0;0;12;23.76. przełyku,
+V1;23;;23.77;przedramienia AP,;0;0;12;23.77. przedramienia AP,
+V1;23;;23.78;przedramienia bok,;0;0;12;23.78. przedramienia bok,
+V1;23;;23.79;przedramienia AP + bok,;0;0;12;23.79. przedramienia AP + bok,
+V1;23;;23.80;stawu barkowego AP, stawu barkowego AP + osiowe,;0;0;12;23.80. stawu barkowego AP, stawu barkowego AP + osiowe,
+V1;23;;23.81;stawu barkowego osiowe,;0;0;12;23.81. stawu barkowego osiowe,
+V1;23;;23.82;stawów barkowych,;0;0;12;23.82. stawów barkowych,
+V1;23;;23.83;stawu biodrowego AP,;0;0;12;23.83. stawu biodrowego AP,
+V1;23;;23.84;stawu biodrowego AP +  osiowe,;0;0;12;23.84. stawu biodrowego AP +  osiowe,
+V1;23;;23.85;stawu biodrowego osiowe,;0;0;12;23.85. stawu biodrowego osiowe,
+V1;23;;23.86;stawów biodrowych,;0;0;12;23.86. stawów biodrowych,
+V1;23;;23.87;stawu kolanowego AP,;0;0;12;23.87. stawu kolanowego AP,
+V1;23;;23.88;stawu kolanowego bok,;0;0;12;23.88. stawu kolanowego bok,
+V1;23;;23.89;stawu kolanowego AP + bok,;0;0;12;23.89. stawu kolanowego AP + bok,
+V1;23;;23.90;stawu kolanowego tunelowe,;0;0;12;23.90. stawu kolanowego tunelowe,
+V1;23;;23.91;stawów kolanowych,;0;0;12;23.91. stawów kolanowych,
+V1;23;;23.92;stawów krzyżowo-biodrowych,;0;0;12;23.92. stawów krzyżowo-biodrowych,
+V1;23;;23.93;stawu łokciowego AP,;0;0;12;23.93. stawu łokciowego AP,
+V1;23;;23.94;stawu łokciowego AP+ bok,;0;0;12;23.94. stawu łokciowego AP+ bok,
+V1;23;;23.95;stawu łokciowego bok,;0;0;12;23.95. stawu łokciowego bok,
+V1;23;;23.96;stawów łokciowych,;0;0;12;23.96. stawów łokciowych,
+V1;23;;23.97;stawu mostkowo-obojczykowego,;0;0;12;23.97. stawu mostkowo-obojczykowego,
+
+V1;23;;23.98;stawów mostkowo-obojczykowych,;0;0;13;23.98. stawów mostkowo-obojczykowych,
+V1;23;;23.99;stawu skokowego AP,;0;0;13;23.99. stawu skokowego AP,
+V1;23;;23.100;stawu skokowego bok,;0;0;13;23.100. stawu skokowego bok,
+V1;23;;23.101;stawu skokowego AP + bok,;0;0;13;23.101. stawu skokowego AP + bok,
+V1;23;;23.102;stawów skokowych (porównawcze),;0;0;13;23.102. stawów skokowych (porównawcze),
+V1;23;;23.103;stawów skroniowo-żuchwowych,;0;0;13;23.103. stawów skroniowo-żuchwowych,
+V1;23;;23.104;stawów skroniowo-żuchwowych czynnościowe,;0;0;13;23.104. stawów skroniowo-żuchwowych czynnościowe,
+V1;23;;23.105;miednicy,;0;0;13;23.105. miednicy,
+V1;23;;23.106;stopy AP,;0;0;13;23.106. stopy AP,
+V1;23;;23.107;stopy bok,;0;0;13;23.107. stopy bok,
+V1;23;;23.108;stopy AP + bok,;0;0;13;23.108. stopy AP + bok,
+V1;23;;23.109;stopy w obciążeniu,;0;0;13;23.109. stopy w obciążeniu,
+V1;23;;23.110;obu stóp,;0;0;13;23.110. obu stóp,
+V1;23;;23.111;obu stóp w obciążeniu,;0;0;13;23.111. obu stóp w obciążeniu,
+V1;23;;23.112;ucha,;0;0;13;23.112. ucha,
+V1;23;;23.113;tchawicy,;0;0;13;23.113. tchawicy,
+V1;23;;23.114;twarzoczaszki,;0;0;13;23.114. twarzoczaszki,
+V1;23;;23.115;zatok,;0;0;13;23.115. zatok,
+V1;23;;23.116;żuchwy (1 projekcja),;0;0;13;23.116. żuchwy (1 projekcja),
+V1;23;;23.117;żuchwy PA + skos.;0;0;13;23.117. żuchwy PA + skos.
+
+V1;24;USG - narząd rodny, narządy męskie,  ciąża (na podstawie skierowania lekarskiego) - łączna liczba badań -  limit min. 10 w każdych 12 miesiącach trwania zobowiązania wobec Ubezpieczonego, licząc od dnia objęcia ochroną danego Ubezpieczonego):;24;USG - narząd rodny, narządy męskie,  ciąża (na podstawie skierowania lekarskiego) - łączna liczba badań -  limit min. 10 w każdych 12 miesiącach trwania zobowiązania wobec Ubezpieczonego, licząc od dnia objęcia ochroną danego Ubezpieczonego):;0;0;13;29.  USG - narząd rodny, narządy męskie,  ciąża (na podstawie skierowania lekarskiego) - łączna liczba badań -  limit min. 10 w każdych 12 miesiącach trwania zobowiązania wobec Ubezpieczonego, licząc od dnia objęcia ochroną danego Ubezpieczonego):
+V1;24;;24.1;narządu rodnego/miednicy mniejszej (ginekologiczne) - transvaginalne,;0;0;13;24.1. narządu rodnego/miednicy mniejszej (ginekologiczne) - transvaginalne,
+V1;24;;24.2;ocena szyjki macicy - transvaginalne,;0;0;13;24.2. ocena szyjki macicy - transvaginalne,
+V1;24;;24.3;narządu rodnego przez powłoki brzuszne,;0;0;13;24.3. narządu rodnego przez powłoki brzuszne,
+V1;24;;24.4;prostaty/gruczołu krokowego przez powłoki brzuszne,;0;0;13;24.4. prostaty/gruczołu krokowego przez powłoki brzuszne,
+V1;24;;24.5;transrektalne (TRUS) - prostata, odbyt i odbytnica,;0;0;13;24.5. transrektalne (TRUS) - prostata, odbyt i odbytnica,
+V1;24;;24.6;płodu.;0;0;13;24.6. płodu.
+
+V1;25;USG - jama brzuszna, układ moczowy (na podstawie skierowania lekarskiego):;25;USG - jama brzuszna, układ moczowy (na podstawie skierowania lekarskiego):;0;0;13;25.  USG - jama brzuszna, układ moczowy (na podstawie skierowania lekarskiego):
+V1;25;;25.1;jamy brzusznej,;0;0;13;25.1. jamy brzusznej,
+V1;25;;25.2;układu moczowego (ocena pęcherza moczowego i nerek).;0;0;13;25.2. układu moczowego (ocena pęcherza moczowego i nerek).
+
+V1;26;USG - narządu ruchu (stawy i mięśnie) (na podstawie skierowania lekarskiego):;26;USG - narządu ruchu (stawy i mięśnie) (na podstawie skierowania lekarskiego):;0;0;13;26.  USG - narządu ruchu (stawy i mięśnie) (na podstawie skierowania lekarskiego):
+V1;26;;26.1;barku,;0;0;13;26.1. barku,
+V1;26;;26.2;stawu biodrowego,;0;0;13;26.2. stawu biodrowego,
+V1;26;;26.3;stawu skokowego,;0;0;13;26.3. stawu skokowego,
+V1;26;;26.4;stawu barkowego,;0;0;13;26.4. stawu barkowego,
+V1;26;;26.5;stawu łokciowego,;0;0;13;26.5. stawu łokciowego,
+V1;26;;26.6;stawu kolanowego,;0;0;13;26.6. stawu kolanowego,
+V1;26;;26.7;stawów żuchwowych,;0;0;13;26.7. stawów żuchwowych,
+V1;26;;26.8;dołów podkolanowych;0;0;13;26.8. dołów podkolanowych
+
+V1;27;USG - pozostałe (na podstawie skierowania lekarskiego):;27;USG - pozostałe (na podstawie skierowania lekarskiego):;0;0;13;27.  USG - pozostałe (na podstawie skierowania lekarskiego):
+V1;27;;27.1;piersi,;0;0;13;27.1. piersi,
+V1;27;;27.2;biopsja cienkoigłowa piersi pod kontrolą USG wraz z pobraniem materiału do badania cytologicznego (BAC) i jego oceną,;0;0;13;27.2. biopsja cienkoigłowa piersi pod kontrolą USG wraz z pobraniem materiału do badania cytologicznego (BAC) i jego oceną,
+V1;27;;27.3;tarczycy,;0;0;13;27.3. tarczycy,
+V1;27;;27.4;biopsja cienkoigłowa tarczycy pod kontrolą USG wraz z pobraniem materiału do badania cytologicznego i jego oceną,;0;0;13;27.4. biopsja cienkoigłowa tarczycy pod kontrolą USG wraz z pobraniem materiału do badania cytologicznego i jego oceną,
+V1;27;;27.5;jąder i najądrzy,;0;0;13;27.5. jąder i najądrzy,
+V1;27;;27.6;powrózka nasiennego;0;0;13;27.6. powrózka nasiennego
+
+V1;28;Badania czynnościowe układu krążenia (na podstawie skierowania lekarskiego):;28;Badania czynnościowe układu krążenia (na podstawie skierowania lekarskiego):;0;0;13;28.  Badania czynnościowe układu krążenia (na podstawie skierowania lekarskiego):
+V1;28;;28.1;EKG spoczynkowe;0;0;13;28.1. EKG spoczynkowe
+
+V1;29;Szczepienia wraz z konsultacją lekarską przed szczepieniem obejmuje iniekcję, koszt szczepionki oraz konsultację kwalifikacyjną przed szczepieniem:;29;Szczepienia wraz z konsultacją lekarską przed szczepieniem obejmuje iniekcję, koszt szczepionki oraz konsultację kwalifikacyjną przed szczepieniem:;0;0;14;29.  Szczepienia wraz z konsultacją lekarską przed szczepieniem obejmuje iniekcję, koszt szczepionki oraz konsultację kwalifikacyjną przed szczepieniem:
+V1;29;;29.1;p. grypie sezonowej - 1 dawka w każdych 12 miesiącach trwania zobowiązania wobec Ubezpieczonego, licząc od dnia objęcia ochroną danego Ubezpieczonego;0;0;14;29.1. p. grypie sezonowej - 1 dawka w każdych 12 miesiącach trwania zobowiązania wobec Ubezpieczonego, licząc od dnia objęcia ochroną danego Ubezpieczonego
+
+V1;30;Przegląd stanu zdrowia (bez skierowania lekarskiego): ubezpieczony ma możliwość korzystania z profilaktycznego  przeglądu  stanu  zdrowia  dwa  razy  w  12-miesięcznych okresach trwania zobowiązania wobec Ubezpieczonego, licząc od dnia objęcia ochroną danego Ubezpieczonego. Profilaktyczny przegląd stanu zdrowia obejmuje badania diagnostyczne:;30;Przegląd stanu zdrowia (bez skierowania lekarskiego): ubezpieczony ma możliwość korzystania z profilaktycznego  przeglądu  stanu  zdrowia  dwa  razy  w  12-miesięcznych okresach trwania zobowiązania wobec Ubezpieczonego, licząc od dnia objęcia ochroną danego Ubezpieczonego. Profilaktyczny przegląd stanu zdrowia obejmuje badania diagnostyczne:;0;0;14;30.  Przegląd stanu zdrowia (bez skierowania lekarskiego): ubezpieczony ma możliwość korzystania z profilaktycznego  przeglądu  stanu  zdrowia  dwa  razy  w  12-miesięcznych okresach trwania zobowiązania wobec Ubezpieczonego, licząc od dnia objęcia ochroną danego Ubezpieczonego. Profilaktyczny przegląd stanu zdrowia obejmuje badania diagnostyczne:
+V1;30;;30.1;aminotransferaza alaninowa (ALAT/ALT/GPT),;0;0;14;30.1. aminotransferaza alaninowa (ALAT/ALT/GPT),
+V1;30;;30.2;aminotransferaza asparaginowa (AspAT/AST/GOT),;0;0;14;30.2. aminotransferaza asparaginowa (AspAT/AST/GOT),
+V1;30;;30.3;morfologia krwi z rozmazem (z analizatora/rozmaz automatyczny),;0;0;14;30.3. morfologia krwi z rozmazem (z analizatora/rozmaz automatyczny),
+V1;30;;30.4;odczyn opadania krwinek czerwonych (OB),;0;0;14;30.4. odczyn opadania krwinek czerwonych (OB),
+V1;30;;30.5;glukoza/cukier na czczo,;0;0;14;30.5. glukoza/cukier na czczo,
+V1;30;;30.6;badanie ogólne moczu,;0;0;14;30.6. badanie ogólne moczu,
+V1;30;;30.7;cholesterol całkowity (CHOL).;0;0;14;30.7. cholesterol całkowity (CHOL).
+
+V1;31;Zamawiający  wymaga  by  Wykonawca  zapewnił  minimum  10%  zniżki  od  aktualnej  ceny obowiązującej w placówce do której zgłoszony został Ubezpieczony na wszystkie usługi medyczne świadczone w tej placówce, które nie są objęte posiadanym przez Ubezpieczonego pakietem (w tym  również  na  stomatologiczne  leczenie  zachowawcze  i  chirurgiczne;  zniżka  nie  dotyczy diagnostyki rentgenowskiej, leczenia ortodontycznego, protetycznego, implanatologii, stomatologii estetycznej).;31;Zamawiający  wymaga  by  Wykonawca  zapewnił  minimum  10%  zniżki  od  aktualnej  ceny obowiązującej w placówce do której zgłoszony został Ubezpieczony na wszystkie usługi medyczne świadczone w tej placówce, które nie są objęte posiadanym przez Ubezpieczonego pakietem (w tym  również  na  stomatologiczne  leczenie  zachowawcze  i  chirurgiczne;  zniżka  nie  dotyczy diagnostyki rentgenowskiej, leczenia ortodontycznego, protetycznego, implanatologii, stomatologii estetycznej).;0;0;14;31.  Zamawiający  wymaga  by  Wykonawca  zapewnił  minimum  10%  zniżki  od  aktualnej  ceny obowiązującej w placówce do której zgłoszony został Ubezpieczony na wszystkie usługi medyczne świadczone w tej placówce, które nie są objęte posiadanym przez Ubezpieczonego pakietem (w tym  również  na  stomatologiczne  leczenie  zachowawcze  i  chirurgiczne;  zniżka  nie  dotyczy diagnostyki rentgenowskiej, leczenia ortodontycznego, protetycznego, implanatologii, stomatologii estetycznej).

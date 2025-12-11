@@ -1,0 +1,104 @@
+1. Co usunąć / zmienić w siwz_pipeline_context.md
+
+Chodzi o to, żeby dokument odzwierciedlał aktualny kod: skoro nie masz już FakeGPTClient, to:
+
+a) Sekcja 2.3 – llm.classify_segments
+
+Tam teraz masz opis typu (w skrócie):
+
+LLM client:
+
+GPTClient – real OpenAI client
+
+FakeGPTClient – deterministic fake
+
+inspect_pdf.py wybiera między nimi na podstawie --real … 
+
+siwz_pipeline_context
+
+Co zrobić:
+
+Zostaw tylko opis GPTClient.
+
+Usuń wzmianki o FakeGPTClient i o przełącznikach --real / fallbackach.
+
+Może być np. tak:
+
+LLM client:
+
+* `GPTClient` – real OpenAI client (e.g. `gpt-4o-mini`).
+* `classify_segments(segments, client, show_progress=False)` – zwraca listę `SegmentClassification`.
+
+b) Sekcja 2.8 – scripts/inspect_pdf.py
+
+Aktualnie masz tam krok:
+
+Select GPT client:
+• if use_real_gpt: spróbuj GPTClient, na błąd → FakeGPTClient
+• else użyj FakeGPTClient 
+
+siwz_pipeline_context
+
+Jeśli w kodzie run_inspection usunąłeś FakeGPT, to w tej sekcji zrób:
+
+Usuń parametr use_real_gpt z opisu (albo zaznacz, że jest ignorowany).
+
+Napisz po prostu:
+
+3. Select GPT client:
+
+   * Tworzony jest `GPTClient(model="gpt-4o-mini", temperature=0.0)`
+     i używany do klasyfikacji segmentów.
+
+
+W opisie report usuń pole use_real_gpt, jeśli usunąłeś je również z kodu.
+
+c) Podsumowanie (sekcja 6)
+
+Jeśli w Summary masz jeszcze wzmiankę o FakeGPT / „fake client do testów”, usuń ją, tak żeby w całym pliku FakeGPT już nie występował. 
+
+siwz_pipeline_context
+
+Krótko: wszystko, co mówi „FakeGPTClient / deterministyczny / fallback / --real”, wywalasz albo aktualizujesz pod „zawsze GPTClient”.
+
+1. Co zmienić w siwz_pipeline_context.md
+
+Masz teraz plik GPT_client.py z klasami GPTClient i FakeGPTClient.
+W kontekście (sekcja o LLM) warto doprecyzować:
+
+🔧 Sekcja 2.3 – llm.classify_segments
+
+Zaktualizuj opis tej sekcji mniej więcej tak (bez wielkiej filozofii, po prostu spójnie z kodem):
+
+Plik / moduł klienta LLM
+Zamiast ogólnego „GPTClient / FakeGPTClient” bez ścieżki, wpisz:
+
+LLM client:
+
+* `GPTClient` – główny wrapper OpenAI API (moduł `siwz_mapper.llm.GPT_client`).
+* `FakeGPTClient` – klient testowy bez wywołań API (ten sam moduł), spełnia `GPTClientProtocol`.
+* Obie klasy implementują metodę `chat(system_prompt: str, user_prompt: str) -> str`.
+
+
+Opis użycia w classify_segments (tam gdzie jest info o parametrze client):
+
+`classify_segments(segments, client, show_progress=False)`:
+
+* `client` – obiekt zgodny z `GPTClientProtocol` (musi mieć metodę `chat(system_prompt, user_prompt) -> str`),
+  typowo `GPTClient` z `siwz_mapper.llm.GPT_client`.
+
+🔧 Sekcja 2.8 – scripts/inspect_pdf.py
+
+Jeśli tam masz wzmianki o „FakeGPTClient vs GPTClient” / --real, to:
+
+możesz zostawić info, że do testów lokalnych można podać FakeGPTClient,
+
+ale dopisz konkretną ścieżkę:
+
+LLM client tworzony jest z modułu `siwz_mapper.llm.GPT_client`:
+
+* `GPTClient(model="gpt-4o-mini", temperature=0.0)` – używany w normalnym trybie.
+* `FakeGPTClient()` – opcjonalny klient testowy, bez wywołań API.
+
+
+Jeżeli w kodzie inspect_pdf już nie ma przełączania na FakeGPT, usuń fragmenty o fallbacku i --real.
